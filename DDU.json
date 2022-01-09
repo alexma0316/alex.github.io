@@ -1,7 +1,7 @@
 [
   {
     "number": 0,
-    "route": "GEO",
+    "route": "PT",
     "destZ": "暫停服務",
     "destY": "暫停服務",
     "maxPZ": "1",
@@ -13,14 +13,42 @@
   },
   {
     "number": 1,
-    "route": "23",
-    "destZ": "豬怕邨",
-    "destY": "大新碼頭",
+    "route": "31",
+    "destZ": "欣園邨",
+    "destY": "富園邨",
     "maxPZ": "1",
-    "priceZ1": "4.1",
-    "halfpriceZ1": "2.1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
     "maxPY": "1",
-    "priceY1": "4.1",
-    "halfpriceY1": "2.1"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+  {
+    "number": 2,
+    "route": "31P",
+    "destZ": "欣園邨",
+    "destY": "富園邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+ {
+    "number": 3,
+    "route": "33P",
+    "destZ": "欣園邨",
+    "destY": "尚安碼頭",
+    "maxPZ": "2",
+    "priceZ1": "10.8",
+    "halfpriceZ1": "5.4",
+    "priceZ2": "3.8",
+    "halfpriceZ2": "1.9",
+    "maxPY": "2",
+    "priceY1": "10.8",
+    "halfpriceY1": "5.4",
+    "priceY2": "5.0",
+    "halfpriceY2": "2.5"
   }
 ]
