@@ -70,5 +70,65 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+  },
+  {
+    "route": "92R",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92R",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+     {
+    "route": "92R",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "石永交匯處",
+    "ChiTime": 5,
+    "Eng": "SHEK WING\nINTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92R",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "尚安碼頭總站",
+    "ChiTime": 5,
+    "Eng": "SHEUNG ON PIER\nB/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92R",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "巴士總站 多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
   }
  ]
