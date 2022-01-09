@@ -12,12 +12,12 @@
     "Notification": 0
   },
   {
-    "route": "23",
+    "route": "251",
     "direction": 0,
     "NextStop": 1,
-    "Chi": "歡迎乘搭豬怕巴士",
+    "Chi": "歡迎乘搭hihi巴士",
     "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
+    "Eng": "WELCOME fat",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
