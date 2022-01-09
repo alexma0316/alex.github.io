@@ -108,7 +108,7 @@
     "Notification": 0
   },
   {
-  "Route": "33P",
+  "route": "33P",
     "direction": 0,
     "NextStop": 9,
     "Chi": "南翔購物中心",
