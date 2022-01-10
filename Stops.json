@@ -1365,7 +1365,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 0 
   },
   {
     "route": "72",
@@ -1389,7 +1389,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1401,7 +1401,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1413,7 +1413,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1425,7 +1425,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
      {
     "route": "72",
@@ -1437,7 +1437,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1449,7 +1449,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
   "route": "72",
@@ -1461,7 +1461,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1473,7 +1473,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 2
   },
      {
     "route": "72",
@@ -1485,7 +1485,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -1497,7 +1497,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "72",
@@ -2087,8 +2087,8 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
-    "route": "91",
+    {
+    "route": "92",
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭昇俊巴士",
@@ -2100,7 +2100,7 @@
     "Notification": 0
   },
   {
-    "route": "91",
+    "route": "92",
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭昇俊巴士",
@@ -2112,82 +2112,141 @@
     "Notification": 0
   },
      {
-    "route": "91",
+    "route": "92",
     "direction": 0,
     "NextStop": 3,
-    "Chi": "石永交匯處",
+    "Chi": "海洋花園",
     "ChiTime": 5,
-    "Eng": "SHEK WING\nINTERCHANGE",
+    "Eng": "MARINE LODGE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
-       {
-    "route": "91",
-    "direction": 0,
-    "NextStop": 3,
-    "Chi": "石永交匯處",
-    "ChiTime": 5,
-    "Eng": "SHEK WING\nINTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-       {
-    "route": "91",
-    "direction": 0,
-    "NextStop": 3,
-    "Chi": "石永交匯處",
-    "ChiTime": 5,
-    "Eng": "SHEK WING\nINTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-       {
-    "route": "91",
-    "direction": 0,
-    "NextStop": 3,
-    "Chi": "石永交匯處",
-    "ChiTime": 5,
-    "Eng": "SHEK WING\nINTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-       {
-    "route": "91",
-    "direction": 0,
-    "NextStop": 3,
-    "Chi": "石永交匯處",
-    "ChiTime": 5,
-    "Eng": "SHEK WING\nINTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  
   {
-    "route": "92R",
+    "route": "92",
     "direction": 0,
     "NextStop": 4,
-    "Chi": "北貢巴士總站",
+    "Chi": "海邊村",
     "ChiTime": 5,
-    "Eng": "PAK KUNG\nBUS TERMINALS",
+    "Eng": "SEA BEACH VILLAGE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
   {
-    "route": "92R",
+    "route": "92",
     "direction": 0,
     "NextStop": 5,
+    "Chi": "圍村 II",
+    "ChiTime": 5,
+    "Eng": "WALL VILLAGE 2",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "圍村 I",
+    "ChiTime": 5,
+    "Eng": "WALL VILLAGE 1",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "石永交匯處",
+    "ChiTime": 5,
+    "Eng": "SHEK WING\nINTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "凱靈路",
+    "ChiTime": 5,
+    "Eng": "HOI LING ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "凱靈頓",
+    "ChiTime": 5,
+    "Eng": "HOI LING TON",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "北坑村",
+    "ChiTime": 5,
+    "Eng": "PAK HANG TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "北貢路",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "北貢公園",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "北貢巴士總站",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG\nBUS TERMINUS",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 14,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -2196,7 +2255,175 @@
     "TimePosition": 0,
     "Notification": 0
   },
+     {
+    "route": "92",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
   {
+    "route": "92",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+     {
+    "route": "92",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "海洋花園",
+    "ChiTime": 5,
+    "Eng": "MARINE LODGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "海邊村",
+    "ChiTime": 5,
+    "Eng": "SEA BEACH VILLAGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "圍村 II",
+    "ChiTime": 5,
+    "Eng": "WALL VILLAGE 2",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "圍村 I",
+    "ChiTime": 5,
+    "Eng": "WALL VILLAGE 1",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "石永交匯處",
+    "ChiTime": 5,
+    "Eng": "SHEK WING\nINTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "凱靈路",
+    "ChiTime": 5,
+    "Eng": "HOI LING ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "凱靈頓",
+    "ChiTime": 5,
+    "Eng": "HOI LING TON",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "北坑村",
+    "ChiTime": 5,
+    "Eng": "PAK HANG TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "北貢路",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "北貢公園",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "北貢巴士總站",
+    "ChiTime": 5,
+    "Eng": "PAK KUNG\nBUS TERMINUS",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 14,
+    "Chi": "巴士總站 多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+   {
     "route": "92R",
     "direction": 1,
     "NextStop": 1,
@@ -2256,7 +2483,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
+   {
     "route": "92R",
     "direction": 0,
     "NextStop": 1,
@@ -2316,7 +2543,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
+   {
     "route": "92R",
     "direction": 1,
     "NextStop": 1,
