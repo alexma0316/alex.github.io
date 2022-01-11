@@ -2498,7 +2498,7 @@
   {
     "route": "251",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 14,
     "Chi": "石永邨",
     "ChiTime": 5,
     "Eng": "SHEK WING ESTATE",
@@ -2510,7 +2510,7 @@
   {
     "route": "251 ",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 15,
     "Chi": "石永邨總站",
     "ChiTime": 5,
     "Eng": "SHEK WING ESTATE\nBUS TERMINUS",
@@ -2522,7 +2522,7 @@
   {
     "route": "251",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 16,
     "Chi": "石永交匯處總站",
     "ChiTime": 5,
     "Eng": "SHEK WING INTERCHANGE\nBUS TERMINUS",
@@ -2534,7 +2534,7 @@
   {
     "route": "251",
     "direction": 0,
-    "NextStop": 14,
+    "NextStop": 17,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
