@@ -2569,7 +2569,7 @@
   },
   {
     "route": "251",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 3,
     "Chi": "石永邨石瑞樓",
     "ChiTime": 5,
@@ -2581,7 +2581,7 @@
   },
   {
     "route": "251",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 4,
     "Chi": "石永邨",
     "ChiTime": 5,
@@ -2593,7 +2593,7 @@
   },
   {
     "route": "251 ",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 5,
     "Chi": "石永邨總站",
     "ChiTime": 5,
@@ -2605,7 +2605,7 @@
   },
   {
     "route": "251",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 6,
     "Chi": "石永交匯處總站",
     "ChiTime": 5,
@@ -2617,7 +2617,7 @@
   },
   {
     "route": "251",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 7,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
