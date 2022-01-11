@@ -61,11 +61,13 @@
     "halfpriceZ1": "5.4",
     "priceZ2": "3.8",
     "halfpriceZ2": "1.9",
-    "maxPY": "2",
+    "maxPY": "3",
     "priceY1": "10.8",
     "halfpriceY1": "5.4",
-    "priceY2": "5.0",
-    "halfpriceY2": "2.5"
+    "priceY2": "6.0",
+    "halfpriceY2": "3.0",
+    "priceY3": "5.0",
+    "halfpriceY3": "2.5"
   },
     {
     "number": 5,
@@ -136,8 +138,8 @@
     {
     "number": 9,
     "route": "75",
-    "destZ": "石永交匯處",
-    "destY": "背沙北",
+    "destZ": "背沙北",
+    "destY": "石永交匯處",
     "maxPZ": "2",
     "priceZ1": "9.6",
     "halfpriceZ1": "4.8",
