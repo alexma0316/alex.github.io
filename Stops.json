@@ -2508,7 +2508,7 @@
     "Notification": 0
   },
   {
-    "route": "251 ",
+    "route": "251",
     "direction": 0,
     "NextStop": 15,
     "Chi": "石永邨總站",
@@ -2592,7 +2592,7 @@
     "Notification": 1
   },
   {
-    "route": "251 ",
+    "route": "251",
     "direction": 1,
     "NextStop": 5,
     "Chi": "石永邨總站",
