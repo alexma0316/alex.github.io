@@ -197,6 +197,20 @@
   },
     {
     "number": 13,
+    "route": "96R",
+    "destZ": "華村許願樹",
+    "destY": "永泰邨",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "2",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5",
+    "priceY1": "5.0",
+    "halfpriceY1": "2.5"
+  },
+    {
+    "number": 14,
     "route": "251",
     "destZ": "石永隧道轉車站",
     "destY": "石永交匯處",
@@ -208,10 +222,10 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 14,
+    "number": 15,
     "route": "502",
     "destZ": "尚安碼頭",
-    "destY": "新港灣(俊明庭)",
+    "destY": "新港灣",
     "maxPZ": "1",
     "priceZ1": "5.0",
     "halfpriceZ1": "2.5",
@@ -220,7 +234,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 15,
+    "number": 16,
     "route": "503",
     "destZ": "尚安碼頭",
     "destY": "置富商貿區",
@@ -232,7 +246,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 16,
+    "number": 17,
     "route": "503A",
     "destZ": "尚安碼頭",
     "destY": "置富商貿區",
@@ -244,7 +258,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 17,
+    "number": 18,
     "route": "N37",
     "destZ": "大園市中心",
     "destY": "背沙北",
@@ -260,7 +274,7 @@
     "halfpriceY2": "3.1"
    },
    {
-    "number": 18,
+    "number": 19,
     "route": "N72",
     "destZ": "背沙北",
     "destY": "北貢",
