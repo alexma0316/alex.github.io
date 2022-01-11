@@ -2978,7 +2978,7 @@
   {
     "route": "96R",
     "direction": 0,
-    "NextStop": 7,
+    "NextStop": 6,
     "Chi": "石永交匯處",
     "ChiTime": 5,
     "Eng": "SHEK WING\nINTERCHANGE",
@@ -2990,7 +2990,7 @@
    {
     "route": "96R",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 7,
     "Chi": "華村許願樹",
     "ChiTime": 5,
     "Eng": "WAH TSUEN\nWISHING TREE",
@@ -3002,7 +3002,7 @@
   {
     "route": "96R",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 8,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
