@@ -135,8 +135,26 @@
     "priceY3": "5.0",
     "halfpriceY3": "2.5"
   },
-    {
+  {
     "number": 9,
+    "route": "74R",
+    "destZ": "華村許願樹",
+    "destY": "背沙邨",
+    "maxPZ": "2",
+    "priceZ1": "13.4",
+    "halfpriceZ1": "6.7",
+    "priceZ2": "9.0",
+    "halfpriceZ2": "4.5",
+    "maxPY": "3",
+    "priceY1": "13.4",
+    "halfpriceY1": "6.7",
+    "priceY2": "9.0",
+    "halfpriceY2": "4.5",
+    "priceY3": "4.6",
+    "halfpriceY3": "2.3"
+  },
+    {
+    "number": 10,
     "route": "75",
     "destZ": "背沙北",
     "destY": "石永交匯處",
@@ -154,7 +172,7 @@
     "halfpriceY3": "2.5"
   },
     {
-    "number": 10,
+    "number": 11,
     "route": "91",
     "destZ": "凱靈頓山",
     "destY": "永泰邨",
@@ -168,7 +186,7 @@
     "halfpriceY1": "2.5"
   },
       {
-    "number": 11,
+    "number": 12,
     "route": "92",
     "destZ": "北貢",
     "destY": "尚安碼頭",
@@ -184,7 +202,7 @@
     "halfpriceY2": "2.5"
   },
     {
-    "number": 12,
+    "number": 13,
     "route": "92R",
     "destZ": "北貢",
     "destY": "尚安碼頭",
@@ -196,7 +214,7 @@
     "halfpriceY1": "3.1"
   },
     {
-    "number": 13,
+    "number": 14,
     "route": "96R",
     "destZ": "華村許願樹",
     "destY": "永泰邨",
@@ -210,7 +228,7 @@
     "halfpriceY2": "2.5"
   },
     {
-    "number": 14,
+    "number": 15,
     "route": "251",
     "destZ": "石永隧道轉車站",
     "destY": "石永交匯處",
@@ -222,7 +240,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 15,
+    "number": 16,
     "route": "502",
     "destZ": "尚安碼頭",
     "destY": "新港灣",
@@ -234,7 +252,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 16,
+    "number": 17,
     "route": "503",
     "destZ": "尚安碼頭",
     "destY": "置富商貿區",
@@ -246,7 +264,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 17,
+    "number": 18,
     "route": "503A",
     "destZ": "尚安碼頭",
     "destY": "置富商貿區",
@@ -258,7 +276,7 @@
     "halfpriceY1": "2.5"
   },
    {
-    "number": 18,
+    "number": 19,
     "route": "N37",
     "destZ": "大園市中心",
     "destY": "背沙北",
@@ -274,7 +292,7 @@
     "halfpriceY2": "3.1"
    },
    {
-    "number": 19,
+    "number": 20,
     "route": "N72",
     "destZ": "背沙北",
     "destY": "北貢",
