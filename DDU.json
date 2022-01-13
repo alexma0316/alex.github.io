@@ -330,6 +330,22 @@
     "halfpriceY2": "4.5",
     "priceY3": "7.0",
     "halfpriceY3": "3.5"
+  },
+  {
+    "number": 22,
+    "route": "N91",
+    "destZ": "北貢",
+    "destY": "置富商貿區",
+    "maxPZ": "2",
+    "priceZ1": "11.0",
+    "halfpriceZ1": "5.5",
+    "priceZ2": "7.8",
+    "halfpriceZ2": "3.9",
+    "maxPY": "2",
+    "priceY1": "11.0",
+    "halfpriceY1": "5.5",
+    "priceY2": "7.8",
+    "halfpriceY2": "3.9"
   }
 
 ]
