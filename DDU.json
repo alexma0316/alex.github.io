@@ -310,6 +310,26 @@
     "halfpriceY2": "4.2",
     "priceY3": "6.8",
     "halfpriceY3": "3.4"
+  },
+  {
+    "number": 21,
+    "route": "N33",
+    "destZ": "大園市中心",
+    "destY": "尚安碼頭",
+    "maxPZ": "3",
+    "priceZ1": "16.9",
+    "halfpriceZ1": "8.5",
+    "priceZ2": "12.0",
+    "halfpriceZ2": "6.0",
+    "priceZ3": "6.8",
+    "halfpriceZ3": "3.4",
+    "maxPY": "3",
+    "priceY1": "16.9",
+    "halfpriceY1": "8.5",
+    "priceY2": "9.0",
+    "halfpriceY2": "4.5",
+    "priceY3": "7.0",
+    "halfpriceY3": "3.5"
   }
 
 ]
