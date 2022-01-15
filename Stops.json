@@ -1907,10 +1907,22 @@
     "TimePosition": 0,
     "Notification": 1
   },
-    {
+   {
     "route": "74R",
     "direction": 1,
     "NextStop": 6,
+    "Chi": "沙科街",
+    "ChiTime": 5,
+    "Eng": "SHA FOO STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+    {
+    "route": "74R",
+    "direction": 1,
+    "NextStop": 7,
     "Chi": "背逸路",
     "ChiTime": 5,
     "Eng": "BUI YAT ROAD",
@@ -1922,7 +1934,7 @@
     {
     "route": "74R",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "背達路",
     "ChiTime": 5,
     "Eng": "BUI TAT ROAD",
@@ -1934,7 +1946,7 @@
   {
     "route": "74R",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "背沙車廠",
     "ChiTime": 5,
     "Eng": "BUI SHA DEPOT",
@@ -1946,7 +1958,7 @@
   {
     "route": "74R",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "背沙邨富沙樓",
     "ChiTime": 5,
     "Eng": "FOO SHA HOUSE\nBUI SHA ESTATE",
@@ -1958,7 +1970,7 @@
   {
     "route": "74R",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "背沙邨總站",
     "ChiTime": 5,
     "Eng": "BUI SHA ESTATE\nBUS TERMINUS",
@@ -1970,7 +1982,7 @@
   {
     "route": "74R",
     "direction": 1,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
