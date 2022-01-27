@@ -575,10 +575,34 @@
     "TimePosition": 0,
     "Notification": 2
   },
-     {
+   {
     "route": "33P",
     "direction": 0,
     "NextStop": 12,
+    "Chi": "大圜公路轉車站",
+    "ChiTime": 5,
+    "Eng": "TAI YUEN HIGHWAY\nBUS INTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+    {
+    "route": "33P",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "大圜公路轉車站",
+    "ChiTime": 5,
+    "Eng": "TAI YUEN HIGHWAY\nBUS INTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 2
+  },
+     {
+    "route": "33P",
+    "direction": 0,
+    "NextStop": 14,
     "Chi": "大園變電站",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nSUBSTATION",
@@ -590,7 +614,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 15,
     "Chi": "大園市中心",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nCENTRAL",
@@ -602,7 +626,7 @@
   {
    "route": "33P",
     "direction": 0,
-    "NextStop": 14,
+    "NextStop": 16,
     "Chi": "大園官立中學",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nGOV. SECONDARY SCHOOL",
@@ -614,7 +638,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 15,
+    "NextStop": 17,
     "Chi": "彩虹小學",
     "ChiTime": 5,
     "Eng": "CHOI HUNG\nPRIMARY SCHOOL",
@@ -626,7 +650,7 @@
      {
     "route": "33P",
     "direction": 0,
-    "NextStop": 16,
+    "NextStop": 18,
     "Chi": "上園村",
     "ChiTime": 5,
     "Eng": "SHEUNG YUEN\nTSUEN",
@@ -638,7 +662,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 17,
+    "NextStop": 19,
     "Chi": "龍園路",
     "ChiTime": 5,
     "Eng": "LUNG YUEN ROAD",
@@ -650,7 +674,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 18,
+    "NextStop": 20,
     "Chi": "欣園邨街市",
     "ChiTime": 5,
     "Eng": "YAN YUEN ESTATE\nMARKET",
@@ -662,7 +686,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 19,
+    "NextStop": 21,
     "Chi": "欣園邨總站",
     "ChiTime": 5,
     "Eng": "YAN YUEN ESTATE\nBUS TERMINUS",
@@ -674,7 +698,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 20,
+    "NextStop": 22,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
