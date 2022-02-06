@@ -35,11 +35,11 @@
     "priceY1": "3.8",
     "halfpriceY1": "1.9"
   },
- {
+   {
     "number": 3,
-    "route": "33P",
+    "route": "33A",
     "destZ": "欣園邨",
-    "destY": "尚安碼頭",
+    "destY": "俊寶花園",
     "maxPZ": "2",
     "priceZ1": "10.8",
     "halfpriceZ1": "5.4",
@@ -51,11 +51,11 @@
     "priceY2": "5.0",
     "halfpriceY2": "2.5"
   },
-   {
+ {
     "number": 4,
-    "route": "33A",
+    "route": "33P",
     "destZ": "欣園邨",
-    "destY": "俊寶花園",
+    "destY": "尚安碼頭",
     "maxPZ": "2",
     "priceZ1": "10.8",
     "halfpriceZ1": "5.4",
@@ -85,7 +85,7 @@
     "priceY3": "5.0",
     "halfpriceY3": "2.5"
   },
-    {
+   {
     "number": 6,
     "route": "37",
     "destZ": "大園市中心",
