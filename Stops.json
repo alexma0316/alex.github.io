@@ -1547,10 +1547,22 @@
     "TimePosition": 0,
     "Notification": 0
   },
-    {
+   {
     "route": "33P",
     "direction": 0,
     "NextStop": 3,
+    "Chi": "海怡路",
+    "ChiTime": 5,
+    "Eng": "HOI YEE ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+    {
+    "route": "33P",
+    "direction": 0,
+    "NextStop": 4,
     "Chi": "尚安碼頭",
     "ChiTime": 5,
     "Eng": "SHEUNG ON PIER",
@@ -1562,7 +1574,7 @@
      {
     "route": "33P",
     "direction": 0,
-    "NextStop": 4,
+    "NextStop": 5,
     "Chi": "石永泳灘",
     "ChiTime": 5,
     "Eng": "SHEK WING BEACH",
@@ -1574,7 +1586,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 5,
+    "NextStop": 6,
     "Chi": "圍村 II",
     "ChiTime": 5,
     "Eng": "WALL VILLAGE 2",
@@ -1586,7 +1598,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "圍村 I",
     "ChiTime": 5,
     "Eng": "WALL VILLAGE I",
@@ -1598,10 +1610,10 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 7,
-    "Chi": "石永交匯處",
+    "NextStop": 8,
+    "Chi": "石永路",
     "ChiTime": 5,
-    "Eng": "SHEK WING INTERCHANGE",
+    "Eng": "SHEK WING ROAD",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -1610,7 +1622,7 @@
      {
     "route": "33P",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "石永邨",
     "ChiTime": 5,
     "Eng": "SHEK WING ESTATE",
@@ -1622,7 +1634,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "石永邨石瑞樓",
     "ChiTime": 5,
     "Eng": "SHEK SHUI HOUSE\nSHEK WING ESTATE",
@@ -1632,9 +1644,9 @@
     "Notification": 1
   },
   {
-  "route": "33P",
+    "route": "33P",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "南翔購物中心",
     "ChiTime": 5,
     "Eng": "NAM CHEUNG\nSHOPPING MALL",
@@ -1646,7 +1658,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "石永隧道轉車站",
     "ChiTime": 5,
     "Eng": "SHEK WING TUNNEL\nBUS INTERCHANGE",
@@ -1658,7 +1670,7 @@
     {
     "route": "33P",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "石永隧道轉車站",
     "ChiTime": 5,
     "Eng": "SHEK WING TUNNEL\nBUS INTERCHANGE",
@@ -1668,18 +1680,6 @@
     "Notification": 2
   },
    {
-    "route": "33P",
-    "direction": 0,
-    "NextStop": 13,
-    "Chi": "大園公路轉車站",
-    "ChiTime": 5,
-    "Eng": "TAI YUEN HIGHWAY\nBUS INTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-    {
     "route": "33P",
     "direction": 0,
     "NextStop": 14,
@@ -1689,12 +1689,24 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
+    "Notification": 1
+  },
+    {
+    "route": "33P",
+    "direction": 0,
+    "NextStop": 15,
+    "Chi": "大園公路轉車站",
+    "ChiTime": 5,
+    "Eng": "TAI YUEN HIGHWAY\nBUS INTERCHANGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
     "Notification": 2
   },
    {
     "route": "33P",
     "direction": 0,
-    "NextStop": 15,
+    "NextStop": 16,
     "Chi": "大園變電站",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nSUBSTATION",
@@ -1706,10 +1718,10 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 16,
+    "NextStop": 17,
     "Chi": "大園市中心",
     "ChiTime": 5,
-    "Eng": "TAI YUEN\nCENTRAL",
+    "Eng": "TAI YUEN CENTRAL",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -1718,7 +1730,7 @@
   {
    "route": "33P",
     "direction": 0,
-    "NextStop": 17,
+    "NextStop": 18,
     "Chi": "大園官立中學",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nGOV. SECONDARY SCHOOL",
@@ -1730,7 +1742,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 18,
+    "NextStop": 19,
     "Chi": "彩虹小學",
     "ChiTime": 5,
     "Eng": "CHOI HUNG\nPRIMARY SCHOOL",
@@ -1742,10 +1754,10 @@
      {
     "route": "33P",
     "direction": 0,
-    "NextStop": 19,
+    "NextStop": 20,
     "Chi": "上園村",
     "ChiTime": 5,
-    "Eng": "SHEUNG YUEN\nTSUEN",
+    "Eng": "SHEUNG YUEN TSUEN",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -1754,7 +1766,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 20,
+    "NextStop": 21,
     "Chi": "龍園路",
     "ChiTime": 5,
     "Eng": "LUNG YUEN ROAD",
@@ -1766,7 +1778,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 21,
+    "NextStop": 22,
     "Chi": "欣園邨街市",
     "ChiTime": 5,
     "Eng": "YAN YUEN ESTATE\nMARKET",
@@ -1778,7 +1790,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 22,
+    "NextStop": 23,
     "Chi": "欣園邨總站",
     "ChiTime": 5,
     "Eng": "YAN YUEN ESTATE\nBUS TERMINUS",
@@ -1790,7 +1802,7 @@
   {
     "route": "33P",
     "direction": 0,
-    "NextStop": 23,
+    "NextStop": 24,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -2015,22 +2027,10 @@
     "TimePosition": 0,
     "Notification": 1
   },
-  {
+    {
     "route": "33P",
     "direction": 1,
     "NextStop": 19,
-    "Chi": "石永交匯處",
-    "ChiTime": 5,
-    "Eng": "SHEK WING INTERCHANGE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-     {
-    "route": "33P",
-    "direction": 1,
-    "NextStop": 20,
     "Chi": "圍村 I",
     "ChiTime": 5,
     "Eng": "WALL VILLAGE 1",
@@ -2042,7 +2042,7 @@
   {
     "route": "33P",
     "direction": 1,
-    "NextStop": 21,
+    "NextStop": 20,
     "Chi": "圍村 II",
     "ChiTime": 5,
     "Eng": "WALL VILLAGE 2",
@@ -2054,7 +2054,7 @@
   {
     "route": "33P",
     "direction": 1,
-    "NextStop": 22,
+    "NextStop": 21,
     "Chi": "石永泳灘",
     "ChiTime": 5,
     "Eng": "SHEK WING\nBEACH",
@@ -2066,16 +2066,28 @@
   {
     "route": "33P",
     "direction": 1,
-    "NextStop": 23,
+    "NextStop": 22,
     "Chi": "尚安碼頭",
     "ChiTime": 5,
-    "Eng": "SHEUNG ON PIER\nBUS TERMINUS",
+    "Eng": "SHEUNG ON PIER",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 1
   },
-  {
+    {
+    "route": "33P",
+    "direction": 1,
+    "NextStop": 23,
+    "Chi": "海怡路",
+    "ChiTime": 5,
+    "Eng": "HOI YEE ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+    {
     "route": "33P",
     "direction": 1,
     "NextStop": 24,
