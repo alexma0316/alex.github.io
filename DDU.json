@@ -286,8 +286,8 @@
    {
     "number": 18,
     "route": "502",
-    "destZ": "海明花園",
-    "destY": "新港灣",
+    "destZ": "新港灣",
+    "destY": "海明花園",
     "maxPZ": "1",
     "priceZ1": "5.0",
     "halfpriceZ1": "2.5",
