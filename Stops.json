@@ -6254,7 +6254,7 @@
     {
     "route": "503X",
     "direction": 0,
-    "NextStop": 5,
+    "NextStop": 6,
     "Chi": "石隧轉車站",
     "ChiTime": 5,
     "Eng": "SHEK WING TUNNEL\nBUS INTERCHANGE",
@@ -6266,7 +6266,7 @@
   {
     "route": "503X",
     "direction": 0,
-    "NextStop": 6,
+    "NextStop": 7,
     "Chi": "石永泳灘",
     "ChiTime": 5,
     "Eng": "SHEK WING BEACH",
@@ -6278,7 +6278,7 @@
      {
     "route": "503X",
     "direction": 0,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "海邊村",
     "ChiTime": 5,
     "Eng": "SEA BEACH VILLAGE",
@@ -6290,7 +6290,7 @@
     {
     "route": "503X",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "海洋花園",
     "ChiTime": 5,
     "Eng": "MARINE LODGE",
@@ -6302,7 +6302,7 @@
   {
     "route": "503X",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "海怡花園",
     "ChiTime": 5,
     "Eng": "HOI YEE GARDEN",
@@ -6314,7 +6314,7 @@
   {
     "route": "503X",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "海明花園總站",
     "ChiTime": 5,
     "Eng": "HOI MING GARDEN\nBUS TERMINUS",
@@ -6326,7 +6326,7 @@
   {
     "route": "503X",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "海怡路",
     "ChiTime": 5,
     "Eng": "HOI YEE ROAD",
@@ -6338,7 +6338,7 @@
     {
     "route": "503X",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "尚安碼頭總站",
     "ChiTime": 5,
     "Eng": "SHEUNG ON PIER\nBUS TERMINUS",
@@ -6350,7 +6350,7 @@
   {
     "route": "503X",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
