@@ -73,8 +73,20 @@
     "priceY2": "3.8",
     "halfpriceY2": "1.9"
   },
-     {
+  {
     "number": 5,
+    "route": "70H",
+    "destZ": "背沙邨",
+    "destY": "雲洛邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+   {
+    "number": 6,
     "route": "N37",
     "destZ": "欣園邨",
     "destY": "雲洛邨",
