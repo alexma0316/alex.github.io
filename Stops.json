@@ -399,42 +399,18 @@
     "route": "31P",
     "direction": 0,
     "NextStop": 6,
-    "Chi": "大園官立中學",
-    "ChiTime": 5,
-    "Eng": "TAI YUEN\nGOV. SECONDARY SCHOOL",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-  {
-    "route": "31P",
-    "direction": 0,
-    "NextStop": 7,
-    "Chi": "大園變電站",
-    "ChiTime": 5,
-    "Eng": "TAI YUEN\nSUBSTATION",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 4
-  },
-  {
-    "route": "31P",
-    "direction": 0,
-    "NextStop": 8,
     "Chi": "大園碼頭",
     "ChiTime": 5,
     "Eng": "TAI YUEN PIER",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 3
+    "Notification": 1
   },
      {
     "route": "31P",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 7,
     "Chi": "天滙 I",
     "ChiTime": 5,
     "Eng": "SKY 1",
@@ -446,7 +422,7 @@
   {
     "route": "31P",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 8,
     "Chi": "大園職業學校",
     "ChiTime": 5,
     "Eng": "TAI YUEN\nVOCATIONAL SCHOOL",
@@ -458,7 +434,7 @@
   {
    "route": "31P",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 9,
     "Chi": "華園邨",
     "ChiTime": 5,
     "Eng": "WAH YUEN ESTATE",
@@ -470,7 +446,7 @@
   {
     "route": "31P",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 10,
     "Chi": "富園商場",
     "ChiTime": 5,
     "Eng": "FU YUEN COMPLEX",
@@ -482,7 +458,7 @@
     {
     "route": "31P",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 11,
     "Chi": "富園邨總站",
     "ChiTime": 5,
     "Eng": "FU YUEN ESTATE\nBUS TERMINUS",
@@ -494,7 +470,7 @@
   {
     "route": "31P",
     "direction": 0,
-    "NextStop": 14,
+    "NextStop": 12,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
@@ -591,42 +567,6 @@
     "route": "31P",
     "direction": 1,
     "NextStop": 8,
-    "Chi": "大園變電站",
-    "ChiTime": 5,
-    "Eng": "TAI YUEN\nSUBSTATION",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 3
-  },
-  {
-    "route": "31P",
-    "direction": 1,
-    "NextStop": 9,
-    "Chi": "大園官立中學",
-    "ChiTime": 5,
-    "Eng": "TAI YUEN\nFOV. SECONDARY SCHOOL",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-     {
-    "route": "31P",
-    "direction": 1,
-    "NextStop": 9,
-    "Chi": "彩虹小學",
-    "ChiTime": 5,
-    "Eng": "CHOI HUNG\nPRIMARY SCHOOL",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 1
-  },
-  {
-    "route": "31P",
-    "direction": 1,
-    "NextStop": 10,
     "Chi": "上園村",
     "ChiTime": 5,
     "Eng": "SHEUNG YUEN TSUEN",
@@ -638,7 +578,7 @@
   {
    "route": "31P",
     "direction": 1,
-    "NextStop": 11,
+    "NextStop": 9,
     "Chi": "龍園路",
     "ChiTime": 5,
     "Eng": "LUNG YUEN ROAD",
@@ -650,7 +590,7 @@
   {
     "route": "31P",
     "direction": 1,
-    "NextStop": 12,
+    "NextStop": 10,
     "Chi": "欣園邨街市",
     "ChiTime": 5,
     "Eng": "YAN YUEN\nESTATE MARKET",
@@ -662,7 +602,7 @@
     {
     "route": "31P",
     "direction": 1,
-    "NextStop": 13,
+    "NextStop": 11,
     "Chi": "欣園邨總站",
     "ChiTime": 5,
     "Eng": "YAN YUEN ESTATE\nBUS TERMINUS",
@@ -674,7 +614,7 @@
   {
     "route": "31P",
     "direction": 1,
-    "NextStop": 14,
+    "NextStop": 12,
     "Chi": "巴士總站 多謝乘搭",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
