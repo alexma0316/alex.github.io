@@ -1,0 +1,26 @@
+[
+ {
+    "number": 0,
+    "route": "PT",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+ {
+    "number": 1,
+    "route": "NR3",
+    "destZ": "置富商貿區",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "12.0",
+    "halfpriceZ1": "6.0",
+    "maxPY": "1",
+    "priceY1": "12.0",
+    "halfpriceY1": "6.0"
+  }
+  ]
