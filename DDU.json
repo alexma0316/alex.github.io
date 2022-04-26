@@ -344,6 +344,18 @@
     },
  {
     "number": 22,
+    "route": "500",
+    "destZ": "置富商貿區",
+    "destY": "尚安碼頭",
+    "maxPZ": "1",
+    "priceZ1": "5.0",
+    "halfpriceZ1": "2.5",
+    "maxPY": "1",
+    "priceY1": "5.0",
+    "halfpriceY1": "2.5"
+  },
+ {
+    "number": 23,
     "route": "502",
     "destZ": "俊明庭",
     "destY": "御景豪庭",
@@ -355,7 +367,7 @@
     "halfpriceY1": "2.5"
  },
 {
-    "number": 23,
+    "number": 24,
     "route": "503",
     "destZ": "置富商貿區",
     "destY": "尚安碼頭",
@@ -367,7 +379,7 @@
     "halfpriceY1": "2.5"
   },
 {
-    "number": 24,
+    "number": 25,
     "route": "503A",
     "destZ": "置富商貿區",
     "destY": "尚安碼頭",
@@ -379,7 +391,7 @@
     "halfpriceY1": "2.5"
   },
  {
-    "number": 25,
+    "number": 26,
     "route": "503P",
     "destZ": "置富商貿區",
     "destY": "尚安碼頭",
@@ -391,7 +403,7 @@
     "halfpriceY1": "2.5"
   },
  {
-    "number": 26,
+    "number": 27,
     "route": "503X",
     "destZ": "置富商貿區",
     "destY": "尚安碼頭",
@@ -403,7 +415,7 @@
     "halfpriceY1": "2.9"
   },
  {
-    "number": 27,
+    "number": 28,
     "route": "N37",
     "destZ": "大園市中心",
     "destY": "背沙雲洛邨",
@@ -419,7 +431,7 @@
     "halfpriceY2": "3.1"
    },
 {
-    "number": 28,
+    "number": 29,
     "route": "N72",
     "destZ": "背沙雲洛邨",
     "destY": "北貢",
