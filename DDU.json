@@ -26,8 +26,8 @@
  {
     "number": 2,
     "route": "31A",
-    "destZ": "大園市中心",
-    "destY": "康園邨",
+    "destZ": "康園邨",
+    "destY": "大園市中心",
     "maxPZ": "1",
     "priceZ1": "3.8",
     "halfpriceZ1": "1.9",
