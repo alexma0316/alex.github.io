@@ -25,9 +25,9 @@
   },
  {
     "number": 2,
-    "route": "31P",
-    "destZ": "大園碼頭",
-    "destY": "欣園邨",
+    "route": "31A",
+    "destZ": "大園市中心",
+    "destY": "康園邨",
     "maxPZ": "1",
     "priceZ1": "3.8",
     "halfpriceZ1": "1.9",
