@@ -246,8 +246,9 @@
     "halfpriceY1": "6.3",
     "priceY2": "9.6",
     "halfpriceY2": "4.8",
-    "priceY3": "4.6"
-    },
+    "priceY3": "4.6",
+    "halfpriceY3": "2.3"
+   },
  {
     "number": 14,
     "route": "92",
