@@ -280,8 +280,8 @@
  {
     "number": 16,
     "route": "251",
-    "destZ": "石永隧道轉車站",
-    "destY": "石永邨",
+    "destZ": "石永邨",
+    "destY": "石永隧道轉車站",
     "maxPZ": "1",
     "priceZ1": "5.0",
     "halfpriceZ1": "2.5",
