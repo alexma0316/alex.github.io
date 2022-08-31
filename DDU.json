@@ -420,6 +420,20 @@
     "halfpriceY2": "4.2",
     "priceY3": "6.8",
     "halfpriceY3": "3.4"
- }
+ },
+  {
+    "number": 26,
+    "route": "38B",
+    "destZ": "寶石學校村",
+    "destY": "大園市中心",
+    "maxPZ": "2",
+    "priceZ1": "8.0",
+    "halfpriceZ1": "4.0",
+    "priceZ2": "6.0",
+    "halfpriceZ2": "3.0",
+    "maxPY": "1",
+    "priceY1": "8.0",
+    "halfpriceY1": "4.0"
+  }
 ]
 
