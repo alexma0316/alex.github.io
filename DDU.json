@@ -120,52 +120,52 @@
     "halfpriceY3": "2.5"
   },
  {
-    "number": 7,
-    "route": "37",
-    "destZ": "大園 欣園邨",
-    "destY": "背沙邨",
-    "maxPZ": "2",
-    "priceZ1": "8.0",
-    "halfpriceZ1": "4.0",
-    "priceZ2": "3.8",
-    "halfpriceZ2": "1.9",
-    "maxPY": "2",
-    "priceY1": "8.0",
-    "halfpriceY1": "4.0",
-    "priceY2": "4.6",
-    "halfpriceY2": "2.3"
-  },
- {
     "number": 8,
-    "route": "37A",
+    "route": "38",
     "destZ": "大園碼頭",
-    "destY": "背沙邨",
+    "destY": "背沙北",
     "maxPZ": "2",
     "priceZ1": "8.0",
     "halfpriceZ1": "4.0",
     "priceZ2": "3.8",
     "halfpriceZ2": "1.9",
-    "maxPY": "2",
+    "maxPY": "3",
     "priceY1": "8.0",
     "halfpriceY1": "4.0",
-    "priceY2": "4.6",
+    "priceY2": "5.8",
+    "halfpriceY2": "2.9",
+     "priceY2": "4.6",
     "halfpriceY2": "2.3"
   },
+  {
+    "number": 9,
+    "route": "38B",
+    "destZ": "寶石學校村",
+    "destY": "康園邨",
+    "maxPZ": "2",
+    "priceZ1": "8.0",
+    "halfpriceZ1": "4.0",
+    "priceZ2": "6.0",
+    "halfpriceZ2": "3.0",
+    "maxPY": "1",
+    "priceY1": "8.0",
+    "halfpriceY1": "4.0"
+   }, 
  {
     "number": 9,
-    "route": "37X",
-    "destZ": "大園市中心",
-    "destY": "大園市中心",
+    "route": "38P",
+    "destZ": "康園邨",
+    "destY": "背沙北",
     "maxPZ": "2",
-    "priceZ1": "8.0",
-    "halfpriceZ1": "4.0",
+    "priceZ1": "8.5",
+    "halfpriceZ1": "4.3",
     "priceZ2": "3.8",
     "halfpriceZ2": "1.9",
     "maxPY": "2",
-    "priceY1": "8.0",
-    "halfpriceY1": "4.0",
-    "priceY2": "3.8",
-    "halfpriceY2": "1.9"
+    "priceY1": "8.5",
+    "halfpriceY1": "4.3",
+    "priceY2": "8.0",
+    "halfpriceY2": "4.0"
   },
  {
     "number": 10,
@@ -367,7 +367,7 @@
   },
  {
     "number": 23,
-    "route": "N37",
+    "route": "N38",
     "destZ": "大園市中心",
     "destY": "背沙邨",
     "maxPZ": "2",
@@ -420,20 +420,6 @@
     "halfpriceY2": "4.2",
     "priceY3": "6.8",
     "halfpriceY3": "3.4"
- },
-  {
-    "number": 26,
-    "route": "38B",
-    "destZ": "寶石學校村",
-    "destY": "大園市中心",
-    "maxPZ": "2",
-    "priceZ1": "8.0",
-    "halfpriceZ1": "4.0",
-    "priceZ2": "6.0",
-    "halfpriceZ2": "3.0",
-    "maxPY": "1",
-    "priceY1": "8.0",
-    "halfpriceY1": "4.0"
-  }
+ }
 ]
 
