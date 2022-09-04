@@ -27,24 +27,8 @@
     "priceY2": "4.6",
     "halfpriceY2": "2.3"
   },
- {
-    "number": 2,
-    "route": "37A",
-    "destZ": "大園碼頭",
-    "destY": "背沙邨",
-    "maxPZ": "2",
-    "priceZ1": "8.0",
-    "halfpriceZ1": "4.0",
-    "priceZ2": "3.8",
-    "halfpriceZ2": "1.9",
-    "maxPY": "2",
-    "priceY1": "8.0",
-    "halfpriceY1": "4.0",
-    "priceY2": "4.6",
-    "halfpriceY2": "2.3"
-  },
       {
-    "number": 3,
+    "number": 2,
     "route": "37S",
     "destZ": "背沙墳場",
     "destY": "欣園邨",
@@ -58,7 +42,7 @@
     "halfpriceY2": "1.9"
   },
  {
-    "number": 4,
+    "number": 3,
     "route": "37X",
     "destZ": "大園市中心",
     "destY": "大園市中心",
@@ -74,7 +58,7 @@
     "halfpriceY2": "1.9"
   },
    {
-    "number": 5,
+    "number": 4,
     "route": "70D",
     "destZ": "雲石路",
     "destY": "背沙北",
@@ -86,7 +70,7 @@
     "halfpriceY1": "2.9"
   },
   {
-    "number": 6,
+    "number": 5,
     "route": "70H",
     "destZ": "背沙邨",
     "destY": "雲洛邨",
@@ -96,21 +80,5 @@
     "maxPY": "1",
     "priceY1": "4.6",
     "halfpriceY1": "2.3"
-  },
-   {
-    "number": 7,
-    "route": "N37",
-    "destZ": "大園市中心",
-    "destY": "雲洛邨",
-    "maxPZ": "2",
-    "priceZ1": "9.8",
-    "halfpriceZ1": "4.9",
-    "priceZ2": "5.5",
-    "halfpriceZ2": "2.7",
-    "maxPY": "2",
-    "priceY1": "9.8",
-    "halfpriceY1": "4.9",
-    "priceY2": "6.2",
-    "halfpriceY2": "3.1"
-   }
+  }
   ]
