@@ -393,13 +393,15 @@
     "halfpriceZ2": "5.9",
     "priceZ3": "6.2",
     "halfpriceZ3": "3.1",
-    "maxPY": "3",
+    "maxPY": "4",
     "priceY1": "14.2",
     "halfpriceY1": "7.1",
-    "priceY2": "8.4",
-    "halfpriceY2": "4.2",
-    "priceY3": "6.8",
-    "halfpriceY3": "3.4"
+    "priceY2": "11.7",
+    "halfpriceY2": "5.9",
+    "priceY3": "8.4",
+    "halfpriceY3": "4.2",
+    "priceY4": "6.8",
+    "halfpriceY4": "3.4"
 },
  {
     "number": 25,
