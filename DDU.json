@@ -229,6 +229,25 @@
   },
  {
     "number": 13,
+    "route": "72C",
+    "destZ": "北貢",
+    "destY": "寶石學校村",
+    "maxPZ": "4",
+    "priceZ1": "9.8",
+    "halfpriceZ1": "4.4",
+    "priceZ2": "7.5",
+    "halfpriceZ2": "3.8",
+    "priceZ3": "7.2",
+    "halfpriceZ3": "3.6",
+    "priceZ4": "5.0",
+    "halfpriceZ4": "2.5",
+    "maxPY": "2",
+    "priceY1": "9.8",
+    "halfpriceY1": "4.4",
+    "priceY2": "9.0"
+  },
+ {
+    "number": 14,
     "route": "72E",
     "destZ": "北貢",
     "destY": "背沙北",
@@ -250,7 +269,7 @@
     "halfpriceY4": "2.5"
   },
  {
-    "number": 14,
+    "number": 15,
     "route": "72P",
     "destZ": "北貢",
     "destY": "背沙北",
@@ -270,7 +289,7 @@
     "halfpriceY3": "2.3"
    },
   {
-    "number": 15,
+    "number": 16,
     "route": "72R",
     "destZ": "北貢",
     "destY": "雲洛邨",
@@ -284,20 +303,6 @@
     "halfpriceY1": "7.0",
     "priceY2": "4.6",
     "halfpriceY2": "2.3"
-  },
-   {
-    "number": 16,
-    "route": "75S",
-    "destZ": "背沙墳場",
-    "destY": "尚安 海邊村",
-    "maxPZ": "1",
-    "priceZ1": "14.2",
-    "halfpriceZ1": "7.1",
-    "maxPY": "2",
-    "priceY1": "14.2",
-    "halfpriceY1": "7.1",
-    "priceY2": "9.9",
-    "halfpriceY2": "5.0"
   },
  {
     "number": 17,
