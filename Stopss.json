@@ -1,4 +1,17 @@
 [
+    {
+    "route": "NIS",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭",
+    "ChiLED": "rbxassetid://9506820876",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 {
     "route": "324",
     "direction": 0,
