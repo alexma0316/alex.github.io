@@ -1,0 +1,62 @@
+[
+ {
+    "number": 0,
+    "route": "PT",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+ {
+    "number": 1,
+    "route": "324",
+    "destZ": "富園邨",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+   {
+    "number": 2,
+    "route": "325",
+    "destZ": "富園邨",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+   {
+    "number": 3,
+    "route": "341",
+    "destZ": "富園邨",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+   {
+    "number": 4,
+    "route": "341P",
+    "destZ": "富園邨",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  }
+  ]
