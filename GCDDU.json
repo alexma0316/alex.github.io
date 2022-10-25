@@ -14,26 +14,30 @@
  {
     "number": 1,
     "route": "324",
-    "destZ": "富園邨",
-    "destY": "欣園邨",
+    "destZ": "沙嶺圍",
+    "destY": "晴灣(西)",
     "maxPZ": "1",
-    "priceZ1": "3.8",
-    "halfpriceZ1": "1.9",
-    "maxPY": "1",
-    "priceY1": "3.8",
-    "halfpriceY1": "1.9"
+    "priceZ1": "6.6",
+    "halfpriceZ1": "3.3",
+    "maxPY": "2",
+    "priceY1": "6.6",
+    "halfpriceY1": "3.3",
+    "priceY2": "3.0",
+    "halfpriceY2": "1.5"
   },
-   {
+  {
     "number": 2,
     "route": "325",
-    "destZ": "富園邨",
-    "destY": "欣園邨",
+    "destZ": "馬嶺站",
+    "destY": "晴灣(西)",
     "maxPZ": "1",
-    "priceZ1": "3.8",
-    "halfpriceZ1": "1.9",
-    "maxPY": "1",
-    "priceY1": "3.8",
-    "halfpriceY1": "1.9"
+    "priceZ1": "6.6",
+    "halfpriceZ1": "3.3",
+    "maxPY": "2",
+    "priceY1": "6.6",
+    "halfpriceY1": "3.3",
+    "priceY2": "3.0",
+    "halfpriceY2": "1.5"
   },
    {
     "number": 3,
