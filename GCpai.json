@@ -28,7 +28,7 @@
   },
   {
     "number": 3,
-    "route": "31Y",
+    "route": "324Y",
     "front": 1,
     "frontid1": "rbxassetid://7560800414",
     "controllerid1": "rbxassetid://7625536309",
@@ -38,10 +38,10 @@
   },
   {
     "number": 4,
-    "route": "23Z",
+    "route": "324Z",
     "front": 1,
     "frontid1": "rbxassetid://7560794812",
     "controllerid1": "rbxassetid://7625555938",
     "side": 1,
     "sideid1": "rbxassetid://7926021823"
-  },
+  }
