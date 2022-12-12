@@ -84,7 +84,7 @@
     "Chi": "馬嶺圍",
     "ChiLED": "rbxassetid://11416881235",
     "ChiTime": 5,
-    "Eng": "MA LENG WAI\nVILLAGE",
+    "Eng": "MA LENG WAI",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -116,10 +116,23 @@
     "TimePosition": 0,
     "Notification": 0
   },
-{
+    {
     "route": "324",
     "direction": 0,
     "NextStop": 9,
+    "Chi": "馬嶺圍",
+    "ChiLED": "rbxassetid://11416881235",
+    "ChiTime": 5,
+    "Eng": "MA LENG WAI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "324",
+    "direction": 0,
+    "NextStop": 10,
     "Chi": "沙嶺邨",
     "ChiLED": "rbxassetid://11416879720",
     "ChiTime": 5,
@@ -132,7 +145,7 @@
 {
     "route": "324",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "駿田商場",
     "ChiLED": "rbxassetid://11416870461",
     "ChiTime": 5,
@@ -145,7 +158,7 @@
 {
     "route": "324",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "豬怕公園",
     "ChiLED": "rbxassetid://11416875403",
     "ChiTime": 5,
@@ -158,7 +171,7 @@
 {
     "route": "324",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "豬怕邨",
     "ChiLED": "rbxassetid://11416873321",
     "ChiTime": 5,
@@ -171,7 +184,7 @@
 {
     "route": "324",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "豬怕邨豬逸樓",
     "ChiLED": "rbxassetid://11416830809",
     "ChiTime": 5,
@@ -184,7 +197,7 @@
     {
     "route": "324",
     "direction": 0,
-    "NextStop": 14,
+    "NextStop": 15,
     "Chi": "晴灣轉車站",
     "ChiLED": "rbxassetid://11416876981",
     "ChiTime": 5,
@@ -197,7 +210,7 @@
     {
     "route": "324",
     "direction": 0,
-    "NextStop": 15,
+    "NextStop": 16,
     "Chi": "晴灣車廠",
     "ChiLED": "rbxassetid://11416889722",
     "ChiTime": 5,
@@ -210,7 +223,7 @@
     {
     "route": "324",
     "direction": 0,
-    "NextStop": 16,
+    "NextStop": 17,
     "Chi": "西灣居",
     "ChiLED": "rbxassetid://11416892267",
     "ChiTime": 5,
@@ -223,7 +236,7 @@
     {
     "route": "324",
     "direction": 0,
-    "NextStop": 17,
+    "NextStop": 18,
     "Chi": "晴灣西廣場",
     "ChiLED": "rbxassetid://11416894166",
     "ChiTime": 5,
@@ -236,7 +249,7 @@
     {
     "route": "324",
     "direction": 0,
-    "NextStop": 18,
+    "NextStop": 19,
     "Chi": "晴灣西",
     "ChiLED": "rbxassetid://11416904521",
     "ChiTime": 5,
@@ -249,7 +262,7 @@
    {
     "route": "324",
     "direction": 0,
-    "NextStop": 19,
+    "NextStop": 20,
     "Chi": "巴士總站 多謝乘搭",
     "ChiLED": "rbxassetid://11416972631",
     "ChiTime": 5,
