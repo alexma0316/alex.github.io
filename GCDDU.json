@@ -39,8 +39,22 @@
     "priceY2": "3.0",
     "halfpriceY2": "1.5"
   },
-   {
+ {
     "number": 3,
+    "route": "325 (Sp.)",
+    "destZ": "豬怕學校村",
+    "destY": "晴灣(西)",
+    "maxPZ": "1",
+    "priceZ1": "6.6",
+    "halfpriceZ1": "3.3",
+    "maxPY": "2",
+    "priceY1": "6.6",
+    "halfpriceY1": "3.3",
+    "priceY2": "3.0",
+    "halfpriceY2": "1.5"
+  },
+   {
+    "number": 4,
     "route": "341",
     "destZ": "甘泉站",
     "destY": "晴康苑",
@@ -60,7 +74,7 @@
     "halfpriceY3": "1.5"
   },
    {
-    "number": 4,
+    "number": 5,
     "route": "341P",
     "destZ": "甘泉工業區",
     "destY": "晴康苑",
