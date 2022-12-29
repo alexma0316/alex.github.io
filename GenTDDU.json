@@ -1,7 +1,7 @@
 [
  {
     "number": 0,
-    "route": "PT",
+    "route": "GENT",
     "destZ": "暫停服務",
     "destY": "暫停服務",
     "maxPZ": "1",
@@ -13,11 +13,11 @@
   },
  {
     "number": 1,
-    "route": "31",
+    "route": "32",
     "destZ": "富園邨",
     "destY": "欣園及康園",
     "maxPZ": "1",
-    "priceZ1": "3.8",
+    "priceZ1": "4.3",
     "halfpriceZ1": "1.9",
     "maxPY": "1",
     "priceY1": "3.8",
