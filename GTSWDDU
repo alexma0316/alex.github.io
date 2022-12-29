@@ -1,0 +1,26 @@
+[
+ {
+    "number": 0,
+    "route": "PT",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+ {
+    "number": 1,
+    "route": "31",
+    "destZ": "富園邨",
+    "destY": "欣園及康園",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+  ]
