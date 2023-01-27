@@ -442,6 +442,18 @@
   },
  {
     "number": 27,
+    "route": "503B",
+    "destZ": "永盛路永泰邨",
+    "destY": "永盛路永泰邨",
+    "maxPZ": "1",
+    "priceZ1": "5.0",
+    "halfpriceZ1": "2.5",
+    "maxPY": "1",
+    "priceY1": "5.0",
+    "halfpriceY1": "2.5"
+  },
+ {
+    "number": 28,
     "route": "503P",
     "destZ": "置富商貿區",
     "destY": "尚安碼頭",
@@ -453,7 +465,7 @@
     "halfpriceY1": "2.9"
   },
  {
-    "number": 28,
+    "number": 29,
     "route": "506",
     "destZ": "南翔購物中心",
     "destY": "俊豐園",
@@ -465,7 +477,7 @@
     "halfpriceY1": "2.5"
  },
  {
-    "number": 29,
+    "number": 30,
     "route": "N38",
     "destZ": "大園市中心",
     "destY": "背沙邨",
@@ -481,7 +493,7 @@
     "halfpriceY2": "3.1"
    },
 {
-    "number": 30,
+    "number": 31,
     "route": "N72",
     "destZ": "背沙邨",
     "destY": "北貢",
@@ -503,7 +515,7 @@
     "halfpriceY4": "3.4"
 },
  {
-    "number": 31,
+    "number": 32,
     "route": "N72X",
     "destZ": "雲洛邨",
     "destY": "凱靈頓 北貢",
