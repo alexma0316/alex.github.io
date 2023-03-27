@@ -559,6 +559,20 @@
  },
  {
     "number": 35,
+    "route": "506X",
+    "destZ": "置富商貿區",
+    "destY": "俊寶花園",
+    "maxPZ": "1",
+    "priceZ1": "6.0",
+    "halfpriceZ1": "3.0",
+    "maxPY": "2",
+    "priceY1": "6.0",
+    "halfpriceY1": "3.0",
+    "priceY2": "4.4",
+    "halfpriceY2": "2.2"
+  },
+ {
+    "number": 36,
     "route": "N38",
     "destZ": "大園市中心",
     "destY": "背沙邨",
@@ -574,7 +588,7 @@
     "halfpriceY2": "3.1"
    },
 {
-    "number": 36,
+    "number": 37,
     "route": "N72",
     "destZ": "背沙邨",
     "destY": "北貢",
@@ -596,7 +610,7 @@
     "halfpriceY4": "3.4"
 },
  {
-    "number": 37,
+    "number": 38,
     "route": "N72X",
     "destZ": "雲洛邨",
     "destY": "凱靈頓 北貢",
