@@ -25,8 +25,20 @@
     "priceY2": "3.0",
     "halfpriceY2": "1.5"
   },
-  {
+ {
     "number": 2,
+    "route": "324C",
+    "destZ": "沙嶺墳場",
+    "destY": "晴灣(西)",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "1",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5"
+  },
+  {
+    "number": 3,
     "route": "325",
     "destZ": "馬嶺站",
     "destY": "晴灣(西)",
@@ -40,7 +52,7 @@
     "halfpriceY2": "1.5"
   },
  {
-    "number": 3,
+    "number": 4,
     "route": "325S",
     "destZ": "豬怕學校村",
     "destY": "晴灣(西)",
@@ -54,7 +66,7 @@
     "halfpriceY2": "1.5"
   },
    {
-    "number": 4,
+    "number": 5,
     "route": "341",
     "destZ": "甘泉站",
     "destY": "晴康苑",
@@ -74,7 +86,7 @@
     "halfpriceY3": "1.5"
   },
    {
-    "number": 5,
+    "number": 6,
     "route": "341P",
     "destZ": "甘泉工業區",
     "destY": "晴康苑",
