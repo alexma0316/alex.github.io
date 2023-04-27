@@ -912,19 +912,22 @@
     "number": 64,
     "route": "500Y",
     "front": 1,
-    "frontid1": "rbxassetid://12219678551",
-    "controllerid1": "rbxassetid://12232660708",
+    "frontid1": "rbxassetid://13268030933",
+    "controllerid1": "rbxassetid://13268036860",
     "side": 1,
-    "sideid1": "rbxassetid://12219678551"
+    "sideid1": "rbxassetid://13268030933"
   },
     {
     "number": 65,
     "route": "500Z",
-    "front": 1,
-    "frontid1": "rbxassetid://12219679807",
-    "controllerid1": "rbxassetid://12232662411",
-    "side": 1,
-    "sideid1": "rbxassetid://12219679807"
+    "front": 2,
+    "frontid1": "rbxassetid://13268034277",
+    "frontid2": "rbxassetid://13268035477",
+    "controllerid1": "rbxassetid://13268039614",
+    "controllerid2": "rbxassetid://13268039614",
+    "side": 2,
+    "sideid1": "rbxassetid://13268034277",
+    "sideid2": "rbxassetid://13268035477"
   },
    {
     "number": 66,
