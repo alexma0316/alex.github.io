@@ -196,8 +196,8 @@
   {
     "number": 11,
     "route": "38X",
-    "destZ": "大園碼頭",
-    "destY": "安盈邨",
+    "destZ": "TYP 大園碼頭",
+    "destY": "OYE 安盈邨",
     "maxPZ": "3",
     "priceZ1": "8.0",
     "halfpriceZ1": "4.0",
