@@ -14,8 +14,8 @@
  {
     "number": 1,
     "route": "30",
-    "destZ": "大園北/和園街",
-    "destY": "尚頤邨北",
+    "destZ": "WYS 和園街",
+    "destY": "SYE 尚頤邨北",
     "maxPZ": "3",
     "priceZ1": "9.8",
     "halfpriceZ1": "4.9",
@@ -34,8 +34,8 @@
  {
     "number": 2,
     "route": "31",
-    "destZ": "富園邨",
-    "destY": "康宏苑",
+    "destZ": "FYE 富園邨",
+    "destY": "HWC 康宏苑",
     "maxPZ": "1",
     "priceZ1": "3.8",
     "halfpriceZ1": "1.9",
@@ -156,8 +156,8 @@
  {
     "number": 9,
     "route": "38",
-    "destZ": "大園碼頭",
-    "destY": "背沙背晴路",
+    "destZ": "TYP 大園碼頭",
+    "destY": "BSR 背晴路",
     "maxPZ": "3",
     "priceZ1": "8.0",
     "halfpriceZ1": "4.0",
