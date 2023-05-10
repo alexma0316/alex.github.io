@@ -368,14 +368,14 @@
   {
     "number": 27,
     "route": "38Z",
-    "front": 5,
+    "front": 3,
     "frontid1": "rbxassetid://13299978746",
     "frontid2": "rbxassetid://13299981009",
     "frontid3": "rbxassetid://13299983020",
     "controllerid1": "rbxassetid://13299967821",
     "controllerid2": "rbxassetid://13299971285",
     "controllerid3": "rbxassetid://13299974699",
-    "side": 5,
+    "side": 3,
     "sideid1": "rbxassetid://13299978746",
     "sideid2": "rbxassetid://13299981009",
     "sideid3": "rbxassetid://13299983020"
