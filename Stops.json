@@ -13,23 +13,23 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 1,
-    "Chi": "歡迎乘搭",
-    "ChiLED": "rbxassetid://11416927951",
+    "Chi": "",
+    "ChiLED": "rbxassetid://",
     "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
+    "Eng": "",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 2,
-    "Chi": "晴灣西廣場",
+    "Chi": "歡迎乘搭昇俊巴士",
     "ChiLED": "rbxassetid://11416894166",
     "ChiTime": 5,
     "Eng": "SUNNY BAY WEST\nPLAZA",
@@ -39,59 +39,59 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 3,
-    "Chi": "西灣居",
+    "Chi": "尚葵邨臻葵樓",
     "ChiLED": "rbxassetid://11416892267",
     "ChiTime": 5,
-    "Eng": "WESTERN BAYSHORE",
+    "Eng": "CHUN KWAI HOUSE\nSHEUNG KWAI ESTATE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 4,
-    "Chi": "晴灣車廠",
+    "Chi": "尚雅街",
     "ChiLED": "rbxassetid://11416889722",
     "ChiTime": 5,
-    "Eng": "SUNNY BAY DEPOT",
+    "Eng": "SHEUNG NGA STREET",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 5,
-    "Chi": "晴灣轉車站",
+    "Chi": "海洋花園",
     "ChiLED": "rbxassetid://11416876981",
     "ChiTime": 5,
-    "Eng": "SUNNY BAY\nBUS INTERCHANGE",
+    "Eng": "MARINE LODGE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 6,
-    "Chi": "馬嶺圍",
+    "Chi": "石永隧道轉車站",
     "ChiLED": "rbxassetid://11416881235",
     "ChiTime": 5,
-    "Eng": "MA LENG WAI",
+    "Eng": "SHEK WING TUNNEL\nBBI",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 7,
     "Chi": "沙嶺圍",
@@ -104,7 +104,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 8,
     "Chi": "百合臺",
@@ -117,7 +117,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 9,
     "Chi": "馬嶺圍",
@@ -130,7 +130,7 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 10,
     "Chi": "沙嶺邨",
@@ -143,7 +143,7 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 11,
     "Chi": "駿田商場",
@@ -156,7 +156,7 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 12,
     "Chi": "豬怕公園",
@@ -169,7 +169,7 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 13,
     "Chi": "豬怕邨",
@@ -182,7 +182,7 @@
     "Notification": 0
   },
 {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 14,
     "Chi": "豬怕邨豬逸樓",
@@ -195,7 +195,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 15,
     "Chi": "晴灣轉車站",
@@ -208,7 +208,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 16,
     "Chi": "晴灣車廠",
@@ -221,7 +221,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 17,
     "Chi": "西灣居",
@@ -234,7 +234,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 18,
     "Chi": "晴灣西廣場",
@@ -247,7 +247,7 @@
     "Notification": 0
   },
     {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 19,
     "Chi": "晴灣西",
@@ -260,7 +260,7 @@
     "Notification": 0
   },
    {
-    "route": "324",
+    "route": "30",
     "direction": 0,
     "NextStop": 20,
     "Chi": "巴士總站 多謝乘搭",
