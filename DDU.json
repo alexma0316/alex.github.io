@@ -251,15 +251,15 @@
     "destZ": "寶石 湘泓",
     "destY": "景韻苑",
     "maxPZ": "2",
-    "priceZ1": "7.5",
-    "halfpriceZ1": "3.8",
-    "priceZ3": "3.5",
-    "halfpriceZ3": "1.8",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "priceZ3": "1.8",
+    "halfpriceZ3": "0.9",
     "maxPY": "2",
-    "priceY1": "7.5",
-    "halfpriceY1": "3.8",
-    "priceY2": "3.8",
-    "halfpriceY2": "1.9"
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9",
+    "priceY2": "1.9",
+    "halfpriceY2": "1.0"
   },
  {
     "number": 15,
