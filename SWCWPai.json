@@ -56,11 +56,14 @@
    {
     "number": 6,
     "route": "PLGM",
-    "front": 1,
-    "frontid1": "rbxassetid://11811835210",
-    "controllerid1": "rbxassetid://11894706621",
-    "side": 1,
-    "sideid1": "rbxassetid://11811835210"
+    "front": 2,
+    "frontid1": "rbxassetid://13758490258",
+    "frontid2": "rbxassetid://13758483795",
+    "controllerid1": "rbxassetid://13758482806",
+    "controllerid2": "rbxassetid://13758482806",
+    "side": 2,
+    "sideid1": "rbxassetid://13758490258",
+    "sideid2": "rbxassetid://13758483795"
   },
    {
     "number": 7,
