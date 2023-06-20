@@ -13,6 +13,18 @@
   },
  {
     "number": 1,
+    "route": "SC1",
+    "destZ": "嘉門市中心",
+    "destY": "星田(星匯)酒店",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "1",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5"
+  },
+  {
+    "number": 1,
     "route": "NR3",
     "destZ": "置富商貿區",
     "destY": "欣園邨",
