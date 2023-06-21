@@ -1284,13 +1284,16 @@
     "number": 98,
     "route": "57XZ",
     "front": 3,
-    "frontid1": "rbxassetid://13817390815",
-    "frontid2": "rbxassetid://13817393184",
-    "controllerid1": "rbxassetid://13816387291",
-    "controllerid2": "rbxassetid://13817383852",
+    "frontid1": "rbxassetid://13816402493",
+    "frontid2": "rbxassetid://13816403625",
+    "frontid3": "rbxassetid://13816404719",
+    "controllerid1": "rbxassetid://13816396730",
+    "controllerid2": "rbxassetid://13816397967",
+    "controllerid3": "rbxassetid://13816401068",
     "side": 2,
-    "sideid1": "rbxassetid://13817390815",
-    "sideid2": "rbxassetid://13817393184"
+    "sideid1": "rbxassetid://13816402493",
+    "sideid2": "rbxassetid://13816403625",
+    "sideid2": "rbxassetid://13816404719"
   },
      {
     "number": 99,
