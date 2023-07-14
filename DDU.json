@@ -782,6 +782,18 @@
 	},
 	{
 		"number": 49,
+		"route": "957",
+		"destZ": "俊明庭",
+		"destY": "俊明庭",
+		"maxPZ": "1",
+		"priceZ1": "30.7",
+		"halfpriceZ1": "15.4",
+		"maxPY": "1",
+		"priceY1": "30.7",
+		"halfpriceY1": "15.4"
+	},
+	{
+		"number": 50,
 		"route": "N38",
 		"destZ": "大園市中心",
 		"destY": "背沙邨",
@@ -797,7 +809,7 @@
 		"halfpriceY2": "3.3"
 	},
 	{
-		"number": 50,
+		"number": 51,
 		"route": "N57",
 		"destZ": "尚安(尚啟道)",
 		"destY": "嘉門發展碼頭",
@@ -819,7 +831,7 @@
 		"halfpriceY3": "3.3"
 	},
 	{
-		"number": 51,
+		"number": 52,
 		"route": "N257",
 		"destZ": "尚安(尚啟道)",
 		"destY": "嘉門(嘉翠邨)",
@@ -841,7 +853,7 @@
 		"halfpriceY3": "3.3"
 	},
 	{
-		"number": 52,
+		"number": 53,
 		"route": "N72",
 		"destZ": "背沙邨",
 		"destY": "北貢",
@@ -863,7 +875,7 @@
 		"halfpriceY4": "3.5"
 	},
 	{
-		"number": 53,
+		"number": 54,
 		"route": "N72X",
 		"destZ": "雲洛邨",
 		"destY": "北貢",
