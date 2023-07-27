@@ -178,5 +178,17 @@
     "controllerid1": "rbxassetid://12960477186",
     "side": 1,
     "sideid1": "rbxassetid://12960470687"
+  },
+    {
+    "number": 16,
+    "route": "XXXXX",
+    "front": 2,
+    "frontid1": "rbxassetid://14211770019",
+    "frontid2": "rbxassetid://14211771532",
+    "controllerid1": "rbxassetid://14211765192",
+    "controllerid2": "rbxassetid://14211767119",
+    "side": 2,
+    "sideid1": "rbxassetid://14211770019",
+    "sideid2": "rbxassetid://14211771532"
   }
 ]
