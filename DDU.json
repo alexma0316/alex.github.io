@@ -385,8 +385,8 @@
 	{
 		"number": 22,
 		"route": "69",
-		"destZ": "",
-		"destY": "",
+		"destZ": "嘉門市中心",
+		"destY": "彩慈邨",
 		"maxPZ": "1",
 		"priceZ1": "5.0",
 		"halfpriceZ1": "2.5",
