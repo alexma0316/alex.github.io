@@ -63,5 +63,31 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+  },
+    {
+    "route": "325",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "晴灣轉車站",
+    "ChiLED": "rbxassetid://14657248578",
+    "ChiTime": 5,
+    "Eng": "SUNNY BAY BBI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+     {
+    "route": "325",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "晴灣轉車站 (A1月台)",
+    "ChiLED": "rbxassetid://14657254882",
+    "ChiTime": 5,
+    "Eng": "SUNNY BAY BBI\n(A1)",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
   }
 ]
