@@ -1,93 +1,41 @@
 [
-    {
-    "route": "NIS",
-    "direction": 0,
-    "NextStop": 1,
-    "Chi": "歡迎乘搭",
-    "ChiLED": "rbxassetid://12223812274",
-    "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
+  {
+    "route":"NIS",
+    "direction":0,
+    "NextStop":1,
+    "Chi":"歡迎乘搭昇俊巴士",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
   },
-{
-    "route": "325",
-    "direction": 0,
-    "NextStop": 1,
-    "Chi": "歡迎乘搭昇俊巴士",
-    "ChiLED": "rbxassetid:/12223812274",
-    "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
+  {
+    "route":"NIS",
+    "direction":1,
+    "NextStop":1,
+    "Chi":"歡迎乘搭昇俊巴士",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
   },
-{
-    "route": "325",
-    "direction": 0,
-    "NextStop": 2,
-    "Chi": "歡迎乘搭昇俊巴士",
-    "ChiLED": "rbxassetid://12223812274",
-    "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
+  {
+    "route":"325",
+    "direction":0,
+    "NextStop":1,
+    "Chi":"歡迎乘搭豬怕巴士",
+    "ChiSoundId":"rbxassetid://12325302256",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
   },
-{
-    "route": "325",
-    "direction": 0,
-    "NextStop": 3,
-    "Chi": "西灣居",
-    "ChiLED": "rbxassetid://14657245206",
-    "ChiTime": 5,
-    "Eng": "WESTERN BAYSHORE",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://14657546770",
-    "TimePosition": 10,
-    "Notification": 0
+  {
+    "route":"325",
+    "direction":0,
+    "NextStop":2,
+    "Chi":"歡迎乘搭豬怕巴士",
+    "ChiSoundId":"rbxassetid://12325244566",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"rbxassetid://12300414559",
+    "Notification":0
   },
-{
-    "route": "325",
-    "direction": 0,
-    "NextStop": 4,
-    "Chi": "昇俊巴士晴灣車廠",
-    "ChiLED": "rbxassetid://14657248578",
-    "ChiTime": 5,
-    "Eng": "PROSPECT TRANSIT\nSUNNY BAY DEPOT",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-    {
-    "route": "325",
-    "direction": 0,
-    "NextStop": 5,
-    "Chi": "晴灣轉車站 (A1月台)",
-    "ChiLED": "rbxassetid://14657254882",
-    "ChiTime": 5,
-    "Eng": "SUNNY BAY BBI\n(A1)",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-     {
-    "route": "325",
-    "direction": 0,
-    "NextStop": 6,
-    "Chi": "晴灣轉車站 (A1月台)",
-    "ChiLED": "rbxassetid://14657254882",
-    "ChiTime": 5,
-    "Eng": "SUNNY BAY BBI\n(A1)",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  }
-]
