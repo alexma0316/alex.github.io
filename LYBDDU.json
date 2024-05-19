@@ -29,8 +29,22 @@
     "priceY2": "4.7",
     "halfpriceY2": "2.4"
   },
- {
+      {
     "number": 2,
+    "route": "37S",
+    "destZ": "背沙墳場",
+    "destY": "欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "10.8",
+    "halfpriceZ1": "5.4",
+    "maxPY": "2",
+    "priceY1": "10.8",
+    "halfpriceY1": "5.4",
+    "priceY2": "3.9",
+    "halfpriceY2": "2.0"
+  },
+ {
+    "number": 3,
     "route": "37X",
     "destZ": "大園市中心",
     "destY": "背沙 安頌苑",
@@ -48,10 +62,10 @@
     "halfpriceY2": "2.4"
   },
    {
-    "number": 3,
+    "number": 4,
     "route": "53",
     "destZ": "星田 星匯",
-    "destY": "寶石 雲景邨",
+    "destY": "寶石 雲安邨",
     "maxPZ": "3",
     "priceZ1": "10.3",
     "halfpriceZ1": "5.2",
@@ -68,7 +82,7 @@
     "halfpriceY3": "3.9"
   },
    {
-    "number": 4,
+    "number": 5,
     "route": "55",
     "destZ": "嘉門 嘉盛邨",
     "destY": "背沙 背晴路",
@@ -90,7 +104,7 @@
     "halfpriceY4": "2.4"
   },
   {
-    "number": 5,
+    "number": 6,
     "route": "55B",
     "destZ": "星田科創園",
     "destY": "背沙 安頌苑",
@@ -110,7 +124,7 @@
     "halfpriceY3": "2.4"
   },
   {
-    "number": 6,
+    "number": 7,
     "route": "55D",
     "destZ": "星田 星匯",
     "destY": "背沙 雲洛邨",
@@ -130,7 +144,7 @@
     "halfpriceY3": "2.4"
   },
   {
-    "number": 7,
+    "number": 8,
     "route": "55R",
     "destZ": "星田 朗溋",
     "destY": "背沙體育館",
@@ -140,18 +154,6 @@
     "maxPY": "1",
     "priceY1": "16.9",
     "halfpriceY1": "8.5"
-  },
-   {
-    "number": 8,
-    "route": "55S",
-    "destZ": "星田 星匯",
-    "destY": "背沙墳場",
-    "maxPZ": "1",
-    "priceZ1": "15.8",
-    "halfpriceZ1": "7.9",
-    "maxPY": "1",
-    "priceY1": "15.8",
-    "halfpriceY1": "7.9"
   },
   {
     "number": 9,
@@ -168,35 +170,19 @@
  {
     "number": 10,
     "route": "71A",
-    "destZ": "雲景邨",
-    "destY": "背沙",
-    "maxPZ": "3",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "priceZ2": "4.7",
-    "halfpriceZ2": "2.4",
-    "priceZ3": "3.6",
-    "halfpriceZ3": "1.8",
-    "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
-  },
-{
-    "number": 11,
-    "route": "71B",
-    "destZ": "雲景邨",
-    "destY": "雲洛及安頌",
+    "destZ": "雲安邨",
+    "destY": "安頌苑",
     "maxPZ": "2",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "priceZ2": "3.6",
+    "priceZ1": "5.2",
+    "halfpriceZ1": "2.6",
+    "priceZ2": "3.5",
     "halfpriceZ2": "1.8",
     "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
+    "priceY1": "5.2",
+    "halfpriceY1": "2.6"
   },
    {
-    "number": 12,
+    "number": 11,
     "route": "71R",
     "destZ": "雲景邨",
     "destY": "背沙體育館",
@@ -208,7 +194,7 @@
     "halfpriceY1": "4.5"
   },
    {
-    "number": 13,
+    "number": 12,
     "route": "237A",
     "destZ": "大園市中心",
     "destY": "背沙 背晴路",
@@ -227,8 +213,9 @@
     "priceY3": "4.7",
     "halfpriceY3": "2.4"
   },
+
 {
-    "number": 14,
+    "number": 13,
     "route": "255",
     "destZ": "嘉門碼頭",
     "destY": "背沙 背晴路",
@@ -248,19 +235,7 @@
     "halfpriceY3": "2.4"
   },
   {
-    "number": 15,
-    "route": "255R",
-    "destZ": "背沙邨",
-    "destY": "背沙邨",
- "maxPZ": "1",
-    "priceZ1": "16.9",
-    "halfpriceZ1": "8.5",
-    "maxPY": "1",
-    "priceY1": "16.9",
-    "halfpriceY1": "8.5"
-  },
-  {
-    "number": 16,
+    "number": 14,
     "route": "260",
     "destZ": "嘉門市中心",
     "destY": "星田 星匯",
@@ -274,7 +249,7 @@
     "halfpriceY1": "2.8"
   },
   {
-    "number": 17,
+    "number": 15,
     "route": "260A",
     "destZ": "嘉門市中心",
     "destY": "星田科創園",
@@ -287,36 +262,24 @@
     "priceY1": "5.2",
     "halfpriceY1": "2.6"
   },
-   {
-    "number": 18,
-    "route": "260C",
-    "destZ": "嘉門彩慈邨",
-    "destY": "星田科創園",
+{
+    "number": 16,
+    "route": "271",
+    "destZ": "天雲山",
+    "destY": "背沙 背晴路",
     "maxPZ": "2",
-    "priceZ1": "5.6",
-    "halfpriceZ1": "2.8",
-    "priceZ2": "4.0",
-    "halfpriceZ2": "2.0",
-    "maxPY": "1",
-    "priceY1": "5.2",
-    "halfpriceY1": "2.6"
-  },
-  {
-    "number": 19,
-    "route": "260S",
-    "destZ": "嘉門市中心",
-    "destY": "星田 星匯",
-    "maxPZ": "1",
-    "priceZ1": "6.6",
-    "halfpriceZ1": "3.3",
+    "priceZ1": "6.4",
+    "halfpriceZ1": "3.2",
+    "priceZ2": "3.5",
+    "halfpriceZ2": "1.8",
     "maxPY": "2",
-    "priceY1": "6.6",
-    "halfpriceY1": "3.3",
-    "priceY2": "5.6",
-    "halfpriceY2": "2.8"
+    "priceY1": "6.4",
+    "halfpriceY1": "3.2",
+    "priceY2": "4.7",
+    "halfpriceY2": "2.4"
   },
   {
-    "number": 20,
+    "number": 17,
     "route": "955",
     "destZ": "背沙邨",
     "destY": "背沙邨",
@@ -326,19 +289,5 @@
     "maxPY": "1",
     "priceY1": "24.4",
     "halfpriceY1": "12.2"
-  },
-  {
-    "number": 21,
-    "route": "N260",
-    "destZ": "嘉門 嘉達邨",
-    "destY": "星田 星匯",
-    "maxPZ": "2",
-    "priceZ1": "8.6",
-    "halfpriceZ1": "4.3",
-    "priceZ2": "6.5",
-    "halfpriceZ2": "3.3",
-    "maxPY": "1",
-    "priceY1": "8.6",
-    "halfpriceY1": "4.3"
   }
   ]
