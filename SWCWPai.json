@@ -609,13 +609,13 @@
     "number": 46,
     "route": "60Z",
     "front": 2,
-    "frontid1": "rbxassetid://13824543155",
-    "frontid2": "rbxassetid://18232521824",
-    "controllerid1": "rbxassetid://13824538894",
+    "frontid1": "rbxassetid://18232521824",
+    "frontid2": "rbxassetid://18232522665",
+    "controllerid1": "rbxassetid://18232545767",
     "controllerid2": "rbxassetid://18232545767",
     "side": 2,
-    "sideid1": "rbxassetid://13824543155",
-    "sideid2": "rbxassetid://18232521824"
+    "sideid1": "rbxassetid://18232521824",
+    "sideid2": "rbxassetid://18232522665"
   },
   {
     "number": 47,
