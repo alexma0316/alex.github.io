@@ -781,10 +781,10 @@
 		"halfpriceY2": "4.4"
 	},
 	{
-		"number": 47,
+		"number": 48,
 		"route": "N501",
-		"destZ": "雲洛邨",
-		"destY": "北貢",
+		"destZ": "永泰",
+		"destY": "尚安碼頭",
 		"maxPZ": "1",
 		"priceZ1": "7.0",
 		"halfpriceZ1": "3.5",
