@@ -90,5 +90,23 @@
     "halfpriceY1": "3.3",
     "priceY2": "3.0",
     "halfpriceY2": "1.5"
+  },
+ {
+    "number": 6,
+    "route": "336",
+    "destZ": "沙怡 BORBOR LAND",
+    "destY": "晴灣西(匯晴)",
+    "maxPZ": "3",
+    "priceZ1": "8.8",
+    "halfpriceZ1": "4.4",
+    "priceZ2": "5.7",
+    "halfpriceZ2": "2.9",
+    "priceZ3": "4.9",
+    "halfpriceZ2": "2.5",
+    "maxPY": "2",
+    "priceY1": "8.8",
+    "halfpriceY1": "4.4",
+    "priceY2": "3.5",
+    "halfpriceY2": "1.8"
   }
   ]
