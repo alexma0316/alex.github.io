@@ -520,6 +520,18 @@
 	},
 	{
 		"number": 31,
+		"route": "254R",
+		"destZ": "景韻苑",
+		"destY": "景韻苑",
+		"maxPZ": "1",
+		"priceZ1": "12.9",
+		"halfpriceZ1": "6.5",
+		"maxPY": "1",
+		"priceY1": "12.9",
+		"halfpriceY1": "6.5"
+	},
+	{
+		"number": 32,
 		"route": "251",
 		"destZ": "石永邨",
 		"destY": "石永隧道轉車站",
@@ -531,7 +543,7 @@
 		"halfpriceY1": "2.6"
 	},
 	{
-		"number": 32,
+		"number": 33,
 		"route": "279P",
 		"destZ": "石永俊豐",
 		"destY": "背沙安盈",
@@ -547,7 +559,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 33,
+		"number": 34,
 		"route": "279X",
 		"destZ": "石永俊豐",
 		"destY": "背沙背晴路",
@@ -563,7 +575,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 34,
+		"number": 35,
 		"route": "501",
 		"destZ": "永泰",
 		"destY": "尚安碼頭",
@@ -577,7 +589,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 35,
+		"number": 36,
 		"route": "501X",
 		"destZ": "置富商貿區",
 		"destY": "尚安碼頭",
@@ -591,7 +603,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 36,
+		"number": 37,
 		"route": "502",
 		"destZ": "御景豪庭",
 		"destY": "俊寶花園",
@@ -603,22 +615,10 @@
 		"halfpriceY1": "2.6"
 	},
 	{
-		"number": 37,
+		"number": 38,
 		"route": "503A",
 		"destZ": "置富商貿區",
 		"destY": "尚安碼頭",
-		"maxPZ": "1",
-		"priceZ1": "5.2",
-		"halfpriceZ1": "2.6",
-		"maxPY": "1",
-		"priceY1": "5.2",
-		"halfpriceY1": "2.6"
-	},
-	{
-		"number": 38,
-		"route": "506",
-		"destZ": "南翔購物中心",
-		"destY": "俊豐園",
 		"maxPZ": "1",
 		"priceZ1": "5.2",
 		"halfpriceZ1": "2.6",
