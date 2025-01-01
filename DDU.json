@@ -337,20 +337,8 @@
 	{
 		"number": 19,
 		"route": "60",
-		"destZ": "嘉門市中心",
+		"destZ": "彩慈",
 		"destY": "嘉耀",
-		"maxPZ": "1",
-		"priceZ1": "4.8",
-		"halfpriceZ1": "2.4",
-		"maxPY": "1",
-		"priceY1": "4.8",
-		"halfpriceY1": "2.4"
-	},
-	{
-		"number": 20,
-		"route": "69",
-		"destZ": "嘉門市中心",
-		"destY": "彩慈邨",
 		"maxPZ": "1",
 		"priceZ1": "5.0",
 		"halfpriceZ1": "2.5",
@@ -359,7 +347,7 @@
 		"halfpriceY1": "2.5"
 	},
 	{
-		"number": 21,
+		"number": 20,
 		"route": "72",
 		"destZ": "北貢",
 		"destY": "背晴路",
@@ -383,7 +371,7 @@
 		"halfpriceY4": "2.4"
 	},
 	{
-		"number": 22,
+		"number": 21,
 		"route": "72R",
 		"destZ": "北貢",
 		"destY": "安頌苑",
@@ -397,6 +385,24 @@
 		"halfpriceY1": "7.3",
 		"priceY2": "4.7",
 		"halfpriceY2": "2.4"
+	},
+	{
+		"number": 22,
+		"route": "74R",
+		"destZ": "背沙邨",
+		"destY": "華村許願樹",
+		"maxPZ": "3",
+		"priceZ1": "13.9",
+		"halfpriceZ1": "7.0",
+		"priceZ2": "9.9",
+		"halfpriceZ2": "5.0",
+		"priceZ3": "4.7",
+		"halfpriceZ3": "2.4",
+		"maxPY": "2",
+		"priceY1": "13.9",
+		"halfpriceY1": "7.0",
+		"priceY2": "9.9",
+		"halfpriceY2": "5.0"
 	},
 	{
 		"number": 23,
