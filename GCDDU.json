@@ -13,18 +13,26 @@
   },
  {
     "number": 1,
+    "route": "300A",
+    "destZ": "SBI 晴灣轉車站",
+    "destY": "TQA 晴灣西(匯晴)",
+    "maxPZ": "1",
+    "priceZ1": "3.5",
+    "halfpriceZ1": "1.8",
+    "maxPY": "1",
+    "priceY1": "3.5",
+    "halfpriceY1": "1.8"
+  },
+ {
+    "number": 2,
     "route": "324",
     "destZ": "SLW 沙嶺圍",
-    "destY": "SBW 晴灣西",
-    "maxPZ": "4",
+    "destY": "TRE 晴灣北(河畔)",
+    "maxPZ": "2",
     "priceZ1": "6.6",
     "halfpriceZ1": "3.3",
-    "priceZ2": "6.1",
-    "halfpriceZ2": "3.1",
-    "priceZ3": "4.6",
-    "halfpriceZ3": "2.3",
-    "priceZ4": "4.4",
-    "halfpriceZ4": "2.2",
+    "priceZ2": "4.6",
+    "halfpriceZ2": "2.3",
     "maxPY": "2",
     "priceY1": "6.6",
     "halfpriceY1": "3.3",
@@ -32,10 +40,10 @@
     "halfpriceY2": "1.5"
   },
  {
-    "number": 2,
+    "number": 3,
     "route": "324C",
     "destZ": "SLC 沙嶺墳場",
-    "destY": "SBW 晴灣(西)",
+    "destY": "CHC 晴康苑",
     "maxPZ": "1",
     "priceZ1": "9.0",
     "halfpriceZ1": "4.5",
@@ -44,10 +52,10 @@
     "halfpriceY1": "4.5"
   },
  {
-    "number": 3,
+    "number": 4,
     "route": "324X",
     "destZ": "SSE 沙善邨",
-    "destY": "COF 晴澳花園",
+    "destY": "CHC 晴康苑",
     "maxPZ": "3",
     "priceZ1": "7.1",
     "halfpriceZ1": "3.6",
@@ -62,10 +70,10 @@
     "halfpriceY2": "1.5"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "325",
     "destZ": "MLH 馬嶺醫院",
-    "destY": "SBW 晴灣西",
+    "destY": "TQA 晴灣西(匯晴)",
     "maxPZ": "2",
     "priceZ1": "6.6",
     "halfpriceZ1": "3.3",
@@ -78,8 +86,8 @@
     "halfpriceY2": "1.5"
   },
  {
-    "number": 5,
-    "route": "325S",
+    "number": 6,
+    "route": "325B",
     "destZ": "GSV 豬怕學校村",
     "destY": "SBW 晴灣西",
     "maxPZ": "1",
@@ -92,10 +100,22 @@
     "halfpriceY2": "1.5"
   },
  {
-    "number": 6,
+    "number": 7,
+    "route": "330R",
+    "destZ": "CTV 蔡村許願樹",
+    "destY": "SBI 晴灣轉車站",
+    "maxPZ": "1",
+    "priceZ1": "14.0",
+    "halfpriceZ1": "7.0",
+    "maxPY": "1",
+    "priceY1": "14.0",
+    "halfpriceY1": "7.0"
+  },
+ {
+    "number": 8,
     "route": "336",
-    "destZ": "沙怡 BORBOR LAND",
-    "destY": "晴灣西(匯晴)",
+    "destZ": "BOL 沙怡 BORBOR LAND",
+    "destY": "TQA 晴灣西(匯晴)",
     "maxPZ": "3",
     "priceZ1": "8.8",
     "halfpriceZ1": "4.4",
@@ -108,5 +128,17 @@
     "halfpriceY1": "4.4",
     "priceY2": "3.5",
     "halfpriceY2": "1.8"
+  },
+  {
+    "number": 9,
+    "route": "N336",
+    "destZ": "沙怡 BORBOR LAND",
+    "destY": "晴灣晴康苑",
+    "maxPZ": "1",
+    "priceZ1": "14.0",
+    "halfpriceZ1": "7.0",
+    "maxPY": "1",
+    "priceY1": "14.0",
+    "halfpriceY1": "7.0"
   }
   ]
