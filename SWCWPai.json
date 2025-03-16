@@ -935,14 +935,11 @@
   {
     "number": 75,
     "route": "251Z",
-    "front": 2,
-    "frontid1": "rbxassetid://12960503992",
-    "frontid2": "rbxassetid://12960505778",
-    "controllerid1": "rbxassetid://12960507733",
-    "controllerid2": "rbxassetid://12960509427",
-    "side": 2,
-    "sideid1": "rbxassetid://12960503992",
-    "sideid2": "rbxassetid://12960505778"
+    "front": 1,
+    "frontid1": "rbxassetid://138352299383437",
+    "controllerid1": "rbxassetid://138352299383437",
+    "side": 1,
+    "sideid1": "rbxassetid://138352299383437"
   },
     {
     "number": 76,
