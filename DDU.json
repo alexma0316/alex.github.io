@@ -728,6 +728,18 @@
 	},
 	{
 		"number": 45,
+		"route": "N238",
+		"destZ": "背沙超級城",
+		"destY": "大園 景韻苑",
+		"maxPZ": "1",
+		"priceZ1": "10.5",
+		"halfpriceZ1": "5.3",
+		"maxPY": "1",
+		"priceY1": "10.5",
+		"halfpriceY1": "5.3"
+	},
+	{
+		"number": 46,
 		"route": "N257",
 		"destZ": "尚安(尚啟道)",
 		"destY": "嘉門(嘉翠邨)",
@@ -749,7 +761,7 @@
 		"halfpriceY3": "3.3"
 	},
 	{
-		"number": 46,
+		"number": 47,
 		"route": "N72",
 		"destZ": "背沙邨",
 		"destY": "北貢",
@@ -771,7 +783,7 @@
 		"halfpriceY4": "3.5"
 	},
 	{
-		"number": 47,
+		"number": 48,
 		"route": "N79",
 		"destZ": "雲洛邨",
 		"destY": "北貢",
@@ -787,7 +799,7 @@
 		"halfpriceY2": "4.4"
 	},
 	{
-		"number": 48,
+		"number": 49,
 		"route": "N501",
 		"destZ": "永泰",
 		"destY": "尚安碼頭",
