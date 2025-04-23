@@ -1437,5 +1437,21 @@
     "controllerid1": "rbxassetid://14059052890",
     "side": 1,
     "sideid1": "rbxassetid://14059050999"
-  }
+  },
+   {
+      "number":112,
+      "route":"336",
+      "front":4,
+      "frontid1":"rbxassetid://108447326150445",
+      "frontid2":"rbxassetid://103206264237749",
+      "frontid3":"rbxassetid://136233172625665",
+      "frontid4":"rbxassetid://139521435902436",
+      "controllerid1":"rbxassetid://119709590419238",
+      "controllerid2":"rbxassetid://95815408053670",
+      "controllerid3":"rbxassetid://81503437701655",
+      "controllerid4":"rbxassetid://102009452307603",
+      "side":2,
+      "sideid1":"rbxassetid://108447326150445",
+      "sideid2":"rbxassetid://103206264237749"
+   }
 ]
