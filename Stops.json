@@ -518,5 +518,44 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-  }
+  },
+    {
+    "route": "57",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiLED": "rbxassetid:/12223812274",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "57",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭昇俊巴士",
+    "ChiLED": "rbxassetid:/12223812274",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "57",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "嘉門北公園",
+    "ChiLED": "rbxassetid:/12223812274",
+    "ChiTime": 5,
+    "Eng": "KA MUN NORTH PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 ]
