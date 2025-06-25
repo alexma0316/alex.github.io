@@ -13,6 +13,30 @@
   },
  {
     "number": 1,
+    "route": "20",
+    "destZ": "GCS 豬怕站",
+    "destY": "SCE 沙駿",
+    "maxPZ": "1",
+    "priceZ1": "4.5",
+    "halfpriceZ1": "2.3",
+    "maxPY": "1",
+    "priceY1": "4.5",
+    "halfpriceY1": "2.3"
+  },
+ {
+    "number": 2,
+    "route": "28",
+    "destZ": "TS 大新",
+    "destY": "SCE 沙駿",
+    "maxPZ": "1",
+    "priceZ1": "4.5",
+    "halfpriceZ1": "2.3",
+    "maxPY": "1",
+    "priceY1": "4.5",
+    "halfpriceY1": "2.3"
+  },
+ {
+    "number": 3,
     "route": "300A",
     "destZ": "SBI 晴灣轉車站",
     "destY": "TQA 晴灣西(匯晴)",
@@ -24,7 +48,7 @@
     "halfpriceY1": "1.9"
   },
  {
-    "number": 2,
+    "number": 4,
     "route": "324",
     "destZ": "SLW 沙嶺圍",
     "destY": "TRE 晴灣北(河畔)",
@@ -40,7 +64,7 @@
     "halfpriceY2": "1.6"
   },
  {
-    "number": 3,
+    "number": 5,
     "route": "324C",
     "destZ": "SLC 沙嶺墳場",
     "destY": "CHC 晴康苑",
@@ -52,7 +76,7 @@
     "halfpriceY1": "4.3"
   },
  {
-    "number": 4,
+    "number": 6,
     "route": "324X",
     "destZ": "SSE 沙善邨",
     "destY": "CHC 晴康苑",
@@ -70,7 +94,7 @@
     "halfpriceY2": "1.6"
   },
   {
-    "number": 5,
+    "number": 7,
     "route": "325",
     "destZ": "MLH 馬嶺醫院",
     "destY": "TQA 晴灣西(匯晴)",
@@ -86,7 +110,7 @@
     "halfpriceY2": "1.6"
   },
  {
-    "number": 6,
+    "number": 8,
     "route": "325B",
     "destZ": "GSV 豬怕學校村",
     "destY": "SBW 晴灣西",
@@ -100,7 +124,7 @@
     "halfpriceY2": "1.6"
   },
  {
-    "number": 7,
+    "number": 9,
     "route": "330R",
     "destZ": "CTV 蔡村許願樹",
     "destY": "SBI 晴灣轉車站",
@@ -112,7 +136,7 @@
     "halfpriceY1": "7.4"
   },
  {
-    "number": 8,
+    "number": 10,
     "route": "336",
     "destZ": "BOL 沙怡 BORBOR LAND",
     "destY": "TQA 晴灣西(匯晴)",
@@ -128,7 +152,7 @@
     "halfpriceY2": "1.9"
   },
   {
-    "number": 9,
+    "number": 11,
     "route": "N336",
     "destZ": "沙怡 BORBOR LAND",
     "destY": "晴灣晴康苑",
