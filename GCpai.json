@@ -362,5 +362,14 @@
       "side":2,
       "sideid1":"rbxassetid://105922413351359",
       "sideid2":"rbxassetid://88820270740157"
+   },
+   {
+      "number":32,
+      "route":"20",
+      "front":1,
+      "frontid1":"rbxassetid://120582482495445",
+      "controllerid1":"rbxassetid://81899929307840",
+      "side":1,
+      "sideid1":"rbxassetid://120582482495445"
    }
 ]
