@@ -29,13 +29,26 @@
     "route": "SW1",
     "direction": 0,
     "NextStop": 2,
-    "Chi": "歡迎乘搭昇俊巴士",
+    "Chi": "南翔購物中心",
     "ChiLED": "rbxassetid:/12223812274",
     "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
+    "Eng": "NAM CHEUNG\nSHOPPING CENTRE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
+  },
+    {
+    "route": "SW1",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "雲石道觀景台",
+    "ChiLED": "rbxassetid:/12223812274",
+    "ChiTime": 5,
+    "Eng": "WAN SHEK ROAD\nVIEWING POINT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
   }
 ]
