@@ -49,7 +49,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 2
+    "Notification": 1
   },
      {
     "route": "SW1",
@@ -76,19 +76,6 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 1
-  },
-    {
-    "route": "SW1",
-    "direction": 0,
-    "NextStop": 6,
-    "Chi": "雲石道觀景台",
-    "ChiLED": "rbxassetid:/12223812274",
-    "ChiTime": 5,
-    "Eng": "BUI SHA MEGA MALL",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 2
   },
     {
     "route": "SW1",
