@@ -88,7 +88,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 2
   },
     {
     "route": "SW1",
@@ -97,7 +97,7 @@
     "Chi": "雲石道觀景台",
     "ChiLED": "rbxassetid:/12223812274",
     "ChiTime": 5,
-    "Eng": "BUI SHA MEGA MALL",
+    "Eng": "WAN SHEK ROAD\nVIEWING POINT",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -114,7 +114,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 2
   },
     {
     "route": "SW1",
