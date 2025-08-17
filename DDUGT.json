@@ -1,0 +1,26 @@
+[
+  {
+    "number": 0,
+    "route": "GENT",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+ {
+    "number": 1,
+    "route": "46R",
+    "destZ": "大園(康園)",
+    "destY": "星田文化區",
+    "maxPZ": "3",
+    "priceZ1": "12.9",
+    "halfpriceZ1": "6.5",
+    "maxPY": "1",
+    "priceY1": "12.9",
+    "halfpriceY1": "6.5",
+  }
+]
