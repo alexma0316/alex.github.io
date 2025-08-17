@@ -14,8 +14,8 @@
 	{
 		"number": 1,
 		"route": "SW1",
-		"destZ": "背沙",
-		"destY": "石永",
+		"destZ": "VAZ 背沙",
+		"destY": "SWE 石永",
 		"maxPZ": "1",
 		"priceZ1": "36.0",
 		"halfpriceZ1": "18.0",
