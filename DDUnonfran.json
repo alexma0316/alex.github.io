@@ -11,28 +11,40 @@
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
   },
- {
-    "number": 1,
-    "route": "SC1",
-    "destZ": "嘉門市中心",
-    "destY": "星田(星匯)酒店",
-    "maxPZ": "1",
-    "priceZ1": "9.0",
-    "halfpriceZ1": "4.5",
-    "maxPY": "1",
-    "priceY1": "9.0",
-    "halfpriceY1": "4.5"
-  },
   {
     "number": 2,
-    "route": "NR3",
-    "destZ": "置富商貿區",
-    "destY": "欣園邨",
+    "route": "NR2",
+    "destZ": "TWS 天雲山",
+    "destY": "BMM 背沙超級城",
     "maxPZ": "1",
     "priceZ1": "12.0",
     "halfpriceZ1": "6.0",
     "maxPY": "1",
     "priceY1": "12.0",
     "halfpriceY1": "6.0"
+  },
+  {
+    "number": 3,
+    "route": "NR3",
+    "destZ": "CFC 置富商貿區",
+    "destY": "YYE 欣園邨",
+    "maxPZ": "1",
+    "priceZ1": "12.0",
+    "halfpriceZ1": "6.0",
+    "maxPY": "1",
+    "priceY1": "12.0",
+    "halfpriceY1": "6.0"
+  },
+ {
+    "number": 4,
+    "route": "SC1",
+    "destZ": "KMC 嘉門市中心",
+    "destY": "SSC 帝星酒店",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "1",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5"
   }
   ]
