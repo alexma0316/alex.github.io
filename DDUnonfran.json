@@ -11,6 +11,18 @@
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
   },
+ {
+		"number": 1,
+		"route": "H1",
+		"destZ": "VAZ 背沙",
+		"destY": "SWE 石永",
+		"maxPZ": "1",
+		"priceZ1": "36.9",
+		"halfpriceZ1": "18.5",
+		"maxPY": "1",
+		"priceY1": "36.9",
+		"halfpriceY1": "18.5"
+	},
   {
     "number": 2,
     "route": "NR2",
