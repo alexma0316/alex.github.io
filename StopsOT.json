@@ -13,7 +13,7 @@
     "Notification": 0
   },
 {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭石永探索號",
@@ -26,7 +26,7 @@
     "Notification": 0
   },
   {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 2,
     "Chi": "南翔購物中心",
@@ -39,7 +39,7 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 3,
     "Chi": "石永隧道轉車站",
@@ -52,7 +52,7 @@
     "Notification": 1
   },
      {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 4,
     "Chi": "背沙澄天匯",
@@ -65,7 +65,7 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 5,
     "Chi": "背沙超級城",
@@ -78,7 +78,7 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 6,
     "Chi": "雲石道觀景台",
@@ -91,7 +91,7 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 7,
     "Chi": "石永隧道轉車站",
@@ -104,7 +104,7 @@
     "Notification": 2
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 8,
     "Chi": "尚安碼頭",
@@ -117,7 +117,7 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 9,
     "Chi": "石永泳灘海邊圍邨",
@@ -130,22 +130,35 @@
     "Notification": 1
   },
     {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
     "NextStop": 10,
-    "Chi": "石永市中心石永邨",
+    "Chi": "尚安游泳池",
     "ChiLED": "rbxassetid:/12223812274",
     "ChiTime": 5,
-    "Eng": "SHEK WING TOWN CENTRE\nSHEK WING ESTATE B/T",
+    "Eng": "SHEUNG ON\nSWIMMING POOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+    {
+    "route": "H1",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "石永邨總站",
+    "ChiLED": "rbxassetid:/12223812274",
+    "ChiTime": 5,
+    "Eng": "SHEK WING ESTATE B/T",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 1
   },
 {
-    "route": "SW1",
+    "route": "H1",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "巴士總站 多謝乘搭",
     "ChiLED": "rbxassetid://11416972631",
     "ChiTime": 5,
