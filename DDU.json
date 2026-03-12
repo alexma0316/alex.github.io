@@ -254,7 +254,7 @@
 		"number": 15,
 		"route": "57",
 		"destZ": "TCC 尚安達翠",
-		"destY": "KMF 嘉門發展碼頭",
+		"destY": "KMF 嘉門碼頭",
 		"maxPZ": "5",
 		"priceZ1": "13.2",
 		"halfpriceZ1": "6.6",
@@ -278,7 +278,7 @@
 		"number": 16,
 		"route": "57C",
 		"destZ": "CFC 置富商貿區",
-		"destY": "KYE 嘉門嘉耀",
+		"destY": "KYE 嘉耀",
 		"maxPZ": "3",
 		"priceZ1": "13.9",
 		"halfpriceZ1": "7.0",
@@ -426,18 +426,6 @@
 	},
 	{
 		"number": 24,
-		"route": "79R",
-		"destZ": "背沙體育館",
-		"destY": "尚安(尚頤邨北)",
-		"maxPZ": "1",
-		"priceZ1": "15.6",
-		"halfpriceZ1": "7.8",
-		"maxPY": "1",
-		"priceY1": "15.6",
-		"halfpriceY1": "7.8"
-	},
-	{
-		"number": 25,
 		"route": "79X",
 		"destZ": "AUR 御景豪庭",
 		"destY": "OCC 安頌苑",
@@ -453,7 +441,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 26,
+		"number": 25,
 		"route": "92",
 		"destZ": "PAK 北貢",
 		"destY": "SOP 尚安碼頭",
@@ -469,7 +457,7 @@
 		"halfpriceY2": "2.6"
 	},
 	{
-		"number": 27,
+		"number": 26,
 		"route": "92R",
 		"destZ": "PAK 北貢",
 		"destY": "SOP 尚安碼頭",
@@ -481,7 +469,7 @@
 		"halfpriceY1": "4.7"
 	},
 	{
-		"number": 28,
+		"number": 27,
 		"route": "96R",
 		"destZ": "WTT 華村許願樹",
 		"destY": "WTE 永泰邨",
@@ -495,7 +483,7 @@
 		"halfpriceY2": "2.5"
 	},
 	{
-		"number": 29,
+		"number": 28,
 		"route": "233A",
 		"destZ": "HWC 大園康宏",
 		"destY": "CPG 石永俊寶",
@@ -515,7 +503,7 @@
 		"halfpriceY3": "2.3"
 	},
 	{
-		"number": 30,
+		"number": 29,
 		"route": "233X",
 		"destZ": "AUR 御景豪庭",
 		"destY": "HWC 大園康宏",
@@ -529,7 +517,39 @@
 		"halfpriceY2": "2.0"
 	},
 	{
+		"number": 30,
+		"route": "254",
+		"destZ": "",
+		"destY": "",
+		"maxPZ": "2",
+		"priceZ1": "8.0",
+		"halfpriceZ1": "4.0",
+		"priceZ2": "4.8",
+		"halfpriceZ2": "2.4",
+		"maxPY": "2",
+		"priceY1": "8.0",
+		"halfpriceY1": "4.0",
+		"priceY2": "3.9",
+		"halfpriceY2": "2.0"
+	},
+	{
 		"number": 31,
+		"route": "254C",
+		"destZ": "",
+		"destY": "",
+		"maxPZ": "2",
+		"priceZ1": "8.0",
+		"halfpriceZ1": "4.0",
+		"priceZ2": "4.8",
+		"halfpriceZ2": "2.4",
+		"maxPY": "2",
+		"priceY1": "8.0",
+		"halfpriceY1": "4.0",
+		"priceY2": "3.9",
+		"halfpriceY2": "2.0"
+	},
+	{
+		"number": 32,
 		"route": "254R",
 		"destZ": "HWC 景韻苑",
 		"destY": "HWC 景韻苑",
@@ -541,7 +561,7 @@
 		"halfpriceY1": "6.5"
 	},
 		{
-		"number": 32,
+		"number": 33,
 		"route": "272X",
 		"destZ": "VAZ 澄天匯",
 		"destY": "PAK 北貢",
@@ -553,7 +573,7 @@
 		"halfpriceY1": "7.0"
 	},
 	{
-		"number": 33,
+		"number": 34,
 		"route": "279A",
 		"destZ": "CMG 石永俊豐",
 		"destY": "ONS 背沙安善",
@@ -569,7 +589,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 34,
+		"number": 35,
 		"route": "279X",
 		"destZ": "CMG 石永俊豐",
 		"destY": "ONS 背沙安善",
@@ -585,7 +605,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 35,
+		"number": 36,
 		"route": "501",
 		"destZ": "WTE 永泰",
 		"destY": "SOP 尚安碼頭",
@@ -599,7 +619,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 36,
+		"number": 37,
 		"route": "501X",
 		"destZ": "CFC 置富商貿區",
 		"destY": "SOP 尚安碼頭",
@@ -613,7 +633,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 37,
+		"number": 38,
 		"route": "502",
 		"destZ": "AUR 御景豪庭",
 		"destY": "CPG 俊寶花園",
@@ -625,7 +645,7 @@
 		"halfpriceY1": "2.6"
 	},
 	{
-		"number": 38,
+		"number": 39,
 		"route": "503A",
 		"destZ": "CFC 置富商貿區",
 		"destY": "SOP 尚安碼頭",
@@ -637,7 +657,7 @@
 		"halfpriceY1": "2.6"
 	},
 	{
-		"number": 39,
+		"number": 40,
 		"route": "506X",
 		"destZ": "CFC 置富商貿區",
 		"destY": "CPG 俊寶花園",
@@ -651,7 +671,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 40,
+		"number": 41,
 		"route": "507A",
 		"destZ": "NCS 南翔購物中心",
 		"destY": "SYN 尚頤邨北",
@@ -665,7 +685,7 @@
 		"halfpriceY2": "2.3"
 	},
 	{
-		"number": 41,
+		"number": 42,
 		"route": "957",
 		"destZ": "CMC 俊明庭",
 		"destY": "CMC 俊明庭",
@@ -677,7 +697,7 @@
 		"halfpriceY1": "15.4"
 	},
 	{
-		"number": 42,
+		"number": 43,
 		"route": "N38",
 		"destZ": "TYC 大園市中心",
 		"destY": "BSE 背沙邨",
@@ -693,7 +713,7 @@
 		"halfpriceY2": "3.3"
 	},
 	{
-		"number": 43,
+		"number": 44,
 		"route": "N54",
 		"destZ": "KWC 大園景韻",
 		"destY": "SSC 星田星匯",
@@ -709,7 +729,7 @@
 		"halfpriceY2": "2.4"
 	},
 	{
-		"number": 44,
+		"number": 45,
 		"route": "N57",
 		"destZ": "TCC 尚安達翠",
 		"destY": "KMF 嘉門發展碼頭",
@@ -731,7 +751,7 @@
 		"halfpriceY3": "3.3"
 	},
 	{
-		"number": 45,
+		"number": 46,
 		"route": "N238",
 		"destZ": "VAZ 澄天匯",
 		"destY": "KWC 大園景韻",
@@ -743,7 +763,7 @@
 		"halfpriceY1": "5.3"
 	},
 	{
-		"number": 46,
+		"number": 47,
 		"route": "N257",
 		"destZ": "TCC 尚安達翠",
 		"destY": "KAC 嘉門嘉翠邨",
@@ -765,7 +785,7 @@
 		"halfpriceY3": "3.3"
 	},
 	{
-		"number": 47,
+		"number": 48,
 		"route": "N72",
 		"destZ": "BSE 背沙邨",
 		"destY": "PAK 北貢",
@@ -787,7 +807,7 @@
 		"halfpriceY4": "3.5"
 	},
 	{
-		"number": 48,
+		"number": 49,
 		"route": "N79",
 		"destZ": "ONS 安善邨",
 		"destY": "PAK 北貢",
@@ -803,7 +823,7 @@
 		"halfpriceY2": "4.4"
 	},
 	{
-		"number": 49,
+		"number": 50,
 		"route": "N501",
 		"destZ": "WTE 永泰",
 		"destY": "SOP 尚安碼頭",
