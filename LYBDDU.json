@@ -131,6 +131,18 @@
   },
   {
     "number": 7,
+    "route": "62",
+    "destZ": "嘉門碼頭",
+    "destY": "嘉達及嘉善",
+    "maxPZ": "1",
+    "priceZ1": "4.8",
+    "halfpriceZ1": "2.4",
+    "maxPY": "1",
+    "priceY1": "4.8",
+    "halfpriceY1": "2.4"
+  },
+ {
+    "number": 8,
     "route": "71A",
     "destZ": "雲安邨",
     "destY": "安盈邨",
@@ -144,7 +156,7 @@
     "halfpriceY1": "2.6"
   },
     {
-    "number": 8,
+    "number": 9,
     "route": "237A",
     "destZ": "大園市中心",
     "destY": "背沙 澄天匯",
@@ -165,7 +177,7 @@
   },
 
 {
-    "number": 9,
+    "number": 10,
     "route": "255",
     "destZ": "嘉門 彩慈",
     "destY": "背沙 安善邨",
@@ -185,7 +197,7 @@
     "halfpriceY3": "2.4"
   },
 {
-    "number": 10,
+    "number": 11,
     "route": "255R",
     "destZ": "背沙 安善邨",
     "destY": "背沙 安善邨",
@@ -198,7 +210,7 @@
   },
 
   {
-    "number": 11,
+    "number": 12,
     "route": "260",
     "destZ": "嘉門市中心",
     "destY": "星田 星匯",
@@ -212,7 +224,7 @@
     "halfpriceY1": "2.8"
   },
   {
-    "number": 12,
+    "number": 13,
     "route": "260A",
     "destZ": "嘉門市中心",
     "destY": "星田科創園",
@@ -226,7 +238,7 @@
     "halfpriceY1": "2.6"
   },
   {
-    "number": 13,
+    "number": 14,
     "route": "260C",
     "destZ": "嘉門 彩慈",
     "destY": "星田科創園",
@@ -240,7 +252,7 @@
     "halfpriceY1": "2.8"
   },
   {
-    "number": 14,
+    "number": 15,
     "route": "260S",
     "destZ": "嘉門市中心",
     "destY": "星田 星匯",
@@ -254,7 +266,7 @@
     "halfpriceY2": "2.8"
   },
 {
-    "number": 15,
+    "number": 16,
     "route": "271",
     "destZ": "天雲山",
     "destY": "背沙 澄天匯",
@@ -270,7 +282,7 @@
     "halfpriceY2": "2.4"
   },
 {
-    "number": 16,
+    "number": 17,
     "route": "271E",
     "destZ": "天雲山",
     "destY": "背沙 澄天匯",
@@ -287,7 +299,7 @@
   },
 
   {
-    "number": 17,
+    "number": 18,
     "route": "955",
     "destZ": "背沙邨",
     "destY": "背沙邨",
@@ -298,8 +310,20 @@
     "priceY1": "24.4",
     "halfpriceY1": "12.2"
   },
+ {
+    "number": 19,
+    "route": "960",
+    "destZ": "星田 星匯",
+    "destY": "星田 星匯",
+    "maxPZ": "1",
+    "priceZ1": "14.3",
+    "halfpriceZ1": "7.2",
+    "maxPY": "1",
+    "priceY1": "14.3”,
+    "halfpriceY1": "7.2"
+  },
   {
-    "number": 18,
+    "number": 20,
     "route": "N255",
     "destZ": "嘉門 彩慈",
     "destY": "背沙 澄天匯",
